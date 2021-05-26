@@ -8,6 +8,8 @@ According to Hitsuboku Kumi's [Terms of use](https://cubialpha.wixsite.com/kooms
 ## Tech Specs
 - 4-pitch (A3, D4, A4, D5)
 - using Voicemith Reclist
+- tail symbol: R
+- Deepvocal Toolbox 2.1.0
 
 ## Changes to the audio samples
 - The volume is Normalized to -9db

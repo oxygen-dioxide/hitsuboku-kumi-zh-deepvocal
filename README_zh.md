@@ -8,6 +8,8 @@ Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目�
 ## 技术规格
 - 4音阶 (A3, D4, A4, D5)
 - 使用飞天胶囊录音表
+- 尾音：R
+- Deepvocal Toolbox 2.1.0
 
 ## 本项目对音频的修改
 - 音量标准化到-9db

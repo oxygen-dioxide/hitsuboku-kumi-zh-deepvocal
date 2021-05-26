@@ -40,7 +40,7 @@ modelpath=skreadstring(file)
 print(modelpath)
 for i in os.listdir(modelpath):
     sp=i.split('.')
-    if sp[2]=="DVModel":
+    if(len(sp)>=3 and sp[2]=="DVModel"):
         pitch=sp[0]
         name=sp[1].replace("uppercase","")
         modelupdatetime=os.path.getmtime(modelpath+'\\'+i)

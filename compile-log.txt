@@ -1,4 +1,4 @@
--------------Start to build models 2021-05-26 10:24:02-------------
+-------------Start to build models 2021-05-26 22:08:14-------------
 
 [1/6733] type=CV  pitch=A3  symbol= -a    >> OK  >  Model already exists
 [2/6733] type=CV  pitch=A3  symbol= -ai    >> OK  >  Model already exists
@@ -2304,11 +2304,11 @@
 [2302/6733] type=CV  pitch=A4  symbol= cai    >> OK  >  Model already exists
 [2303/6733] type=CV  pitch=A4  symbol= can    >> OK  >  Model already exists
 [2304/6733] type=CV  pitch=A4  symbol= cang    >> OK  >  Model already exists
-[2305/6733] type=CV  pitch=A4  symbol= cao    >> ......OK 
+[2305/6733] type=CV  pitch=A4  symbol= cao    >> OK  >  Model already exists
 [2306/6733] type=CV  pitch=A4  symbol= ce    >> OK  >  Model already exists
 [2307/6733] type=CV  pitch=A4  symbol= cen    >> OK  >  Model already exists
 [2308/6733] type=CV  pitch=A4  symbol= ceng    >> OK  >  Model already exists
-[2309/6733] type=CV  pitch=A4  symbol= cha    >> .........OK 
+[2309/6733] type=CV  pitch=A4  symbol= cha    >> OK  >  Model already exists
 [2310/6733] type=CV  pitch=A4  symbol= chai    >> OK  >  Model already exists
 [2311/6733] type=CV  pitch=A4  symbol= chan    >> OK  >  Model already exists
 [2312/6733] type=CV  pitch=A4  symbol= chang    >> OK  >  Model already exists
@@ -2343,7 +2343,7 @@
 [2341/6733] type=CV  pitch=A4  symbol= de    >> OK  >  Model already exists
 [2342/6733] type=CV  pitch=A4  symbol= dei    >> OK  >  Model already exists
 [2343/6733] type=CV  pitch=A4  symbol= deng    >> OK  >  Model already exists
-[2344/6733] type=CV  pitch=A4  symbol= di    >> ....OK 
+[2344/6733] type=CV  pitch=A4  symbol= di    >> OK  >  Model already exists
 [2345/6733] type=CV  pitch=A4  symbol= dia    >> OK  >  Model already exists
 [2346/6733] type=CV  pitch=A4  symbol= dian    >> OK  >  Model already exists
 [2347/6733] type=CV  pitch=A4  symbol= diao    >> OK  >  Model already exists
@@ -2475,7 +2475,7 @@
 [2473/6733] type=VX  pitch=A4  symbol= ei_zh    >> OK  >  Model already exists
 [2474/6733] type=CV  pitch=A4  symbol= en    >> OK  >  Model already exists
 [2475/6733] type=VX  pitch=A4  symbol= en0_-    >> OK  >  Model already exists
-[2476/6733] type=VX  pitch=A4  symbol= en0_R    >> ...........OK 
+[2476/6733] type=VX  pitch=A4  symbol= en0_R    >> OK  >  Model already exists
 [2477/6733] type=VX  pitch=A4  symbol= en0_a    >> OK  >  Model already exists
 [2478/6733] type=VX  pitch=A4  symbol= en0_ai    >> OK  >  Model already exists
 [2479/6733] type=VX  pitch=A4  symbol= en0_an    >> OK  >  Model already exists
@@ -2640,8 +2640,8 @@
 [2638/6733] type=CV  pitch=A4  symbol= gai    >> OK  >  Model already exists
 [2639/6733] type=CV  pitch=A4  symbol= gan    >> OK  >  Model already exists
 [2640/6733] type=CV  pitch=A4  symbol= gang    >> OK  >  Model already exists
-[2641/6733] type=CV  pitch=A4  symbol= gao    >> OK 
-[2642/6733] type=CV  pitch=A4  symbol= ge    >> ...........OK 
+[2641/6733] type=CV  pitch=A4  symbol= gao    >> OK  >  Model already exists
+[2642/6733] type=CV  pitch=A4  symbol= ge    >> OK  >  Model already exists
 [2643/6733] type=CV  pitch=A4  symbol= gei    >> OK  >  Model already exists
 [2644/6733] type=CV  pitch=A4  symbol= gen    >> OK  >  Model already exists
 [2645/6733] type=CV  pitch=A4  symbol= geng    >> OK  >  Model already exists
@@ -2654,7 +2654,7 @@
 [2652/6733] type=CV  pitch=A4  symbol= guang    >> OK  >  Model already exists
 [2653/6733] type=CV  pitch=A4  symbol= gui    >> OK  >  Model already exists
 [2654/6733] type=CV  pitch=A4  symbol= gun    >> OK  >  Model already exists
-[2655/6733] type=CV  pitch=A4  symbol= guo    >> .....OK 
+[2655/6733] type=CV  pitch=A4  symbol= guo    >> OK  >  Model already exists
 [2656/6733] type=CV  pitch=A4  symbol= ha    >> OK  >  Model already exists
 [2657/6733] type=CV  pitch=A4  symbol= hai    >> OK  >  Model already exists
 [2658/6733] type=CV  pitch=A4  symbol= han    >> OK  >  Model already exists
@@ -2664,7 +2664,7 @@
 [2662/6733] type=CV  pitch=A4  symbol= hei    >> OK  >  Model already exists
 [2663/6733] type=CV  pitch=A4  symbol= hen    >> OK  >  Model already exists
 [2664/6733] type=CV  pitch=A4  symbol= heng    >> OK  >  Model already exists
-[2665/6733] type=CV  pitch=A4  symbol= hong    >> ....OK 
+[2665/6733] type=CV  pitch=A4  symbol= hong    >> OK  >  Model already exists
 [2666/6733] type=CV  pitch=A4  symbol= hou    >> OK  >  Model already exists
 [2667/6733] type=CV  pitch=A4  symbol= hu    >> OK  >  Model already exists
 [2668/6733] type=CV  pitch=A4  symbol= hua    >> OK  >  Model already exists
@@ -2790,7 +2790,7 @@
 [2788/6733] type=VX  pitch=A4  symbol= in_z    >> OK  >  Model already exists
 [2789/6733] type=VX  pitch=A4  symbol= in_zh    >> OK  >  Model already exists
 [2790/6733] type=VX  pitch=A4  symbol= ing_-    >> OK  >  Model already exists
-[2791/6733] type=VX  pitch=A4  symbol= ing_R    >> OK 
+[2791/6733] type=VX  pitch=A4  symbol= ing_R    >> OK  >  Model already exists
 [2792/6733] type=VX  pitch=A4  symbol= ing_a    >> OK  >  Model already exists
 [2793/6733] type=VX  pitch=A4  symbol= ing_ai    >> OK  >  Model already exists
 [2794/6733] type=VX  pitch=A4  symbol= ing_an    >> OK  >  Model already exists
@@ -2869,11 +2869,11 @@
 [2867/6733] type=CV  pitch=A4  symbol= ji    >> OK  >  Model already exists
 [2868/6733] type=CV  pitch=A4  symbol= jia    >> OK  >  Model already exists
 [2869/6733] type=CV  pitch=A4  symbol= jian    >> OK  >  Model already exists
-[2870/6733] type=CV  pitch=A4  symbol= jiang    >> OK 
+[2870/6733] type=CV  pitch=A4  symbol= jiang    >> OK  >  Model already exists
 [2871/6733] type=CV  pitch=A4  symbol= jiao    >> OK  >  Model already exists
-[2872/6733] type=CV  pitch=A4  symbol= jie    >> .........OK 
-[2873/6733] type=CV  pitch=A4  symbol= jin    >> ......OK 
-[2874/6733] type=CV  pitch=A4  symbol= jing    >> ......OK 
+[2872/6733] type=CV  pitch=A4  symbol= jie    >> OK  >  Model already exists
+[2873/6733] type=CV  pitch=A4  symbol= jin    >> OK  >  Model already exists
+[2874/6733] type=CV  pitch=A4  symbol= jing    >> OK  >  Model already exists
 [2875/6733] type=CV  pitch=A4  symbol= jiong    >> OK  >  Model already exists
 [2876/6733] type=CV  pitch=A4  symbol= jiu    >> OK  >  Model already exists
 [2877/6733] type=CV  pitch=A4  symbol= ju    >> OK  >  Model already exists
@@ -2881,11 +2881,11 @@
 [2879/6733] type=CV  pitch=A4  symbol= jue    >> OK  >  Model already exists
 [2880/6733] type=CV  pitch=A4  symbol= jun    >> OK  >  Model already exists
 [2881/6733] type=CV  pitch=A4  symbol= ka    >> OK  >  Model already exists
-[2882/6733] type=CV  pitch=A4  symbol= kai    >> ....OK 
+[2882/6733] type=CV  pitch=A4  symbol= kai    >> OK  >  Model already exists
 [2883/6733] type=CV  pitch=A4  symbol= kan    >> OK  >  Model already exists
 [2884/6733] type=CV  pitch=A4  symbol= kang    >> OK  >  Model already exists
 [2885/6733] type=CV  pitch=A4  symbol= kao    >> OK  >  Model already exists
-[2886/6733] type=CV  pitch=A4  symbol= ke    >> ......OK 
+[2886/6733] type=CV  pitch=A4  symbol= ke    >> OK  >  Model already exists
 [2887/6733] type=CV  pitch=A4  symbol= ken    >> OK  >  Model already exists
 [2888/6733] type=CV  pitch=A4  symbol= keng    >> OK  >  Model already exists
 [2889/6733] type=CV  pitch=A4  symbol= kong    >> OK  >  Model already exists
@@ -3091,7 +3091,7 @@
 [3089/6733] type=CV  pitch=A4  symbol= pen    >> OK  >  Model already exists
 [3090/6733] type=CV  pitch=A4  symbol= peng    >> OK  >  Model already exists
 [3091/6733] type=CV  pitch=A4  symbol= pi    >> OK  >  Model already exists
-[3092/6733] type=CV  pitch=A4  symbol= pian    >> OK 
+[3092/6733] type=CV  pitch=A4  symbol= pian    >> OK  >  Model already exists
 [3093/6733] type=CV  pitch=A4  symbol= piao    >> OK  >  Model already exists
 [3094/6733] type=CV  pitch=A4  symbol= pie    >> OK  >  Model already exists
 [3095/6733] type=CV  pitch=A4  symbol= pin    >> OK  >  Model already exists
@@ -3166,7 +3166,7 @@
 [3164/6733] type=CV  pitch=A4  symbol= tai    >> OK  >  Model already exists
 [3165/6733] type=CV  pitch=A4  symbol= tan    >> OK  >  Model already exists
 [3166/6733] type=CV  pitch=A4  symbol= tang    >> OK  >  Model already exists
-[3167/6733] type=CV  pitch=A4  symbol= tao    >> OK 
+[3167/6733] type=CV  pitch=A4  symbol= tao    >> OK  >  Model already exists
 [3168/6733] type=CV  pitch=A4  symbol= te    >> OK  >  Model already exists
 [3169/6733] type=CV  pitch=A4  symbol= teng    >> OK  >  Model already exists
 [3170/6733] type=CV  pitch=A4  symbol= ti    >> OK  >  Model already exists
@@ -3258,7 +3258,7 @@
 [3256/6733] type=VX  pitch=A4  symbol= v_z    >> OK  >  Model already exists
 [3257/6733] type=VX  pitch=A4  symbol= v_zh    >> OK  >  Model already exists
 [3258/6733] type=VX  pitch=A4  symbol= vn_-    >> OK  >  Model already exists
-[3259/6733] type=VX  pitch=A4  symbol= vn_R    >> OK 
+[3259/6733] type=VX  pitch=A4  symbol= vn_R    >> OK  >  Model already exists
 [3260/6733] type=VX  pitch=A4  symbol= vn_a    >> OK  >  Model already exists
 [3261/6733] type=VX  pitch=A4  symbol= vn_ai    >> OK  >  Model already exists
 [3262/6733] type=VX  pitch=A4  symbol= vn_an    >> OK  >  Model already exists
@@ -3292,7 +3292,7 @@
 [3290/6733] type=VX  pitch=A4  symbol= vn_t    >> OK  >  Model already exists
 [3291/6733] type=VX  pitch=A4  symbol= vn_x    >> OK  >  Model already exists
 [3292/6733] type=VX  pitch=A4  symbol= vn_y    >> OK  >  Model already exists
-[3293/6733] type=VX  pitch=A4  symbol= vn_yw    >> OK 
+[3293/6733] type=VX  pitch=A4  symbol= vn_yw    >> OK  >  Model already exists
 [3294/6733] type=VX  pitch=A4  symbol= vn_z    >> OK  >  Model already exists
 [3295/6733] type=VX  pitch=A4  symbol= vn_zh    >> OK  >  Model already exists
 [3296/6733] type=CV  pitch=A4  symbol= wa    >> OK  >  Model already exists
@@ -3323,7 +3323,7 @@
 [3321/6733] type=CV  pitch=A4  symbol= yang    >> OK  >  Model already exists
 [3322/6733] type=CV  pitch=A4  symbol= yao    >> OK  >  Model already exists
 [3323/6733] type=CV  pitch=A4  symbol= ye    >> OK  >  Model already exists
-[3324/6733] type=CV  pitch=A4  symbol= yi    >> OK 
+[3324/6733] type=CV  pitch=A4  symbol= yi    >> OK  >  Model already exists
 [3325/6733] type=CV  pitch=A4  symbol= yin    >> OK  >  Model already exists
 [3326/6733] type=CV  pitch=A4  symbol= ying    >> OK  >  Model already exists
 [3327/6733] type=CV  pitch=A4  symbol= yo    >> OK  >  Model already exists
@@ -3347,7 +3347,7 @@
 [3345/6733] type=CV  pitch=A4  symbol= zhan    >> OK  >  Model already exists
 [3346/6733] type=CV  pitch=A4  symbol= zhang    >> OK  >  Model already exists
 [3347/6733] type=CV  pitch=A4  symbol= zhao    >> OK  >  Model already exists
-[3348/6733] type=CV  pitch=A4  symbol= zhe    >> OK 
+[3348/6733] type=CV  pitch=A4  symbol= zhe    >> OK  >  Model already exists
 [3349/6733] type=CV  pitch=A4  symbol= zhen    >> OK  >  Model already exists
 [3350/6733] type=CV  pitch=A4  symbol= zheng    >> OK  >  Model already exists
 [3351/6733] type=CV  pitch=A4  symbol= zhi    >> OK  >  Model already exists
@@ -3698,7 +3698,7 @@
 [3696/6733] type=CV  pitch=D4  symbol= -wai    >> OK  >  Model already exists
 [3697/6733] type=CV  pitch=D4  symbol= -wan    >> OK  >  Model already exists
 [3698/6733] type=CV  pitch=D4  symbol= -wang    >> OK  >  Model already exists
-[3699/6733] type=CV  pitch=D4  symbol= -wei    >> OK 
+[3699/6733] type=CV  pitch=D4  symbol= -wei    >> OK  >  Model already exists
 [3700/6733] type=CV  pitch=D4  symbol= -wen    >> OK  >  Model already exists
 [3701/6733] type=CV  pitch=D4  symbol= -weng    >> OK  >  Model already exists
 [3702/6733] type=CV  pitch=D4  symbol= -wo    >> OK  >  Model already exists
@@ -3889,7 +3889,7 @@
 [3887/6733] type=VX  pitch=D4  symbol= an_zh    >> OK  >  Model already exists
 [3888/6733] type=CV  pitch=D4  symbol= ang    >> OK  >  Model already exists
 [3889/6733] type=VX  pitch=D4  symbol= ang_-    >> OK  >  Model already exists
-[3890/6733] type=VX  pitch=D4  symbol= ang_R    >> OK 
+[3890/6733] type=VX  pitch=D4  symbol= ang_R    >> OK  >  Model already exists
 [3891/6733] type=VX  pitch=D4  symbol= ang_a    >> OK  >  Model already exists
 [3892/6733] type=VX  pitch=D4  symbol= ang_ai    >> OK  >  Model already exists
 [3893/6733] type=VX  pitch=D4  symbol= ang_an    >> OK  >  Model already exists
@@ -3921,7 +3921,7 @@
 [3919/6733] type=VX  pitch=D4  symbol= ang_sh    >> OK  >  Model already exists
 [3920/6733] type=VX  pitch=D4  symbol= ang_t    >> OK  >  Model already exists
 [3921/6733] type=VX  pitch=D4  symbol= ang_w    >> OK  >  Model already exists
-[3922/6733] type=VX  pitch=D4  symbol= ang_x    >> OK 
+[3922/6733] type=VX  pitch=D4  symbol= ang_x    >> OK  >  Model already exists
 [3923/6733] type=VX  pitch=D4  symbol= ang_y    >> OK  >  Model already exists
 [3924/6733] type=VX  pitch=D4  symbol= ang_yw    >> OK  >  Model already exists
 [3925/6733] type=VX  pitch=D4  symbol= ang_z    >> OK  >  Model already exists
@@ -3966,30 +3966,30 @@
 [3964/6733] type=VX  pitch=D4  symbol= ao_z    >> OK  >  Model already exists
 [3965/6733] type=VX  pitch=D4  symbol= ao_zh    >> OK  >  Model already exists
 [3966/6733] type=CV  pitch=D4  symbol= ba    >> OK  >  Model already exists
-[3967/6733] type=CV  pitch=D4  symbol= bai    >> Error  >   Unvoiced part exists in vowel.
+[3967/6733] type=CV  pitch=D4  symbol= bai    >> ....OK 
 [3968/6733] type=CV  pitch=D4  symbol= ban    >> OK  >  Model already exists
 [3969/6733] type=CV  pitch=D4  symbol= bang    >> OK  >  Model already exists
-[3970/6733] type=CV  pitch=D4  symbol= bao    >> Error  >   Unvoiced part exists in vowel.
-[3971/6733] type=CV  pitch=D4  symbol= bei    >> OK 
+[3970/6733] type=CV  pitch=D4  symbol= bao    >> ....OK 
+[3971/6733] type=CV  pitch=D4  symbol= bei    >> OK  >  Model already exists
 [3972/6733] type=CV  pitch=D4  symbol= ben    >> OK  >  Model already exists
 [3973/6733] type=CV  pitch=D4  symbol= beng    >> OK  >  Model already exists
 [3974/6733] type=CV  pitch=D4  symbol= bi    >> OK  >  Model already exists
-[3975/6733] type=CV  pitch=D4  symbol= bian    >> OK 
+[3975/6733] type=CV  pitch=D4  symbol= bian    >> OK  >  Model already exists
 [3976/6733] type=CV  pitch=D4  symbol= biao    >> OK  >  Model already exists
 [3977/6733] type=CV  pitch=D4  symbol= bie    >> OK  >  Model already exists
 [3978/6733] type=CV  pitch=D4  symbol= bin    >> OK  >  Model already exists
 [3979/6733] type=CV  pitch=D4  symbol= bing    >> OK  >  Model already exists
 [3980/6733] type=CV  pitch=D4  symbol= bo    >> OK  >  Model already exists
-[3981/6733] type=CV  pitch=D4  symbol= bu    >> ....OK 
+[3981/6733] type=CV  pitch=D4  symbol= bu    >> OK  >  Model already exists
 [3982/6733] type=CV  pitch=D4  symbol= ca    >> OK  >  Model already exists
 [3983/6733] type=CV  pitch=D4  symbol= cai    >> OK  >  Model already exists
 [3984/6733] type=CV  pitch=D4  symbol= can    >> OK  >  Model already exists
 [3985/6733] type=CV  pitch=D4  symbol= cang    >> OK  >  Model already exists
-[3986/6733] type=CV  pitch=D4  symbol= cao    >> .....OK 
+[3986/6733] type=CV  pitch=D4  symbol= cao    >> OK  >  Model already exists
 [3987/6733] type=CV  pitch=D4  symbol= ce    >> OK  >  Model already exists
 [3988/6733] type=CV  pitch=D4  symbol= cen    >> OK  >  Model already exists
 [3989/6733] type=CV  pitch=D4  symbol= ceng    >> OK  >  Model already exists
-[3990/6733] type=CV  pitch=D4  symbol= cha    >> ........OK 
+[3990/6733] type=CV  pitch=D4  symbol= cha    >> OK  >  Model already exists
 [3991/6733] type=CV  pitch=D4  symbol= chai    >> OK  >  Model already exists
 [3992/6733] type=CV  pitch=D4  symbol= chan    >> OK  >  Model already exists
 [3993/6733] type=CV  pitch=D4  symbol= chang    >> OK  >  Model already exists
@@ -4024,7 +4024,7 @@
 [4022/6733] type=CV  pitch=D4  symbol= de    >> OK  >  Model already exists
 [4023/6733] type=CV  pitch=D4  symbol= dei    >> OK  >  Model already exists
 [4024/6733] type=CV  pitch=D4  symbol= deng    >> OK  >  Model already exists
-[4025/6733] type=CV  pitch=D4  symbol= di    >> OK 
+[4025/6733] type=CV  pitch=D4  symbol= di    >> OK  >  Model already exists
 [4026/6733] type=CV  pitch=D4  symbol= dia    >> OK  >  Model already exists
 [4027/6733] type=CV  pitch=D4  symbol= dian    >> OK  >  Model already exists
 [4028/6733] type=CV  pitch=D4  symbol= diao    >> OK  >  Model already exists
@@ -4094,7 +4094,7 @@
 [4092/6733] type=VX  pitch=D4  symbol= e_eng    >> OK  >  Model already exists
 [4093/6733] type=VX  pitch=D4  symbol= e_er    >> OK  >  Model already exists
 [4094/6733] type=VX  pitch=D4  symbol= e_f    >> OK  >  Model already exists
-[4095/6733] type=VX  pitch=D4  symbol= e_g    >> OK 
+[4095/6733] type=VX  pitch=D4  symbol= e_g    >> OK  >  Model already exists
 [4096/6733] type=VX  pitch=D4  symbol= e_h    >> OK  >  Model already exists
 [4097/6733] type=VX  pitch=D4  symbol= e_j    >> OK  >  Model already exists
 [4098/6733] type=VX  pitch=D4  symbol= e_k    >> OK  >  Model already exists
@@ -4156,7 +4156,7 @@
 [4154/6733] type=VX  pitch=D4  symbol= ei_zh    >> OK  >  Model already exists
 [4155/6733] type=CV  pitch=D4  symbol= en    >> OK  >  Model already exists
 [4156/6733] type=VX  pitch=D4  symbol= en0_-    >> OK  >  Model already exists
-[4157/6733] type=VX  pitch=D4  symbol= en0_R    >> OK 
+[4157/6733] type=VX  pitch=D4  symbol= en0_R    >> OK  >  Model already exists
 [4158/6733] type=VX  pitch=D4  symbol= en0_a    >> OK  >  Model already exists
 [4159/6733] type=VX  pitch=D4  symbol= en0_ai    >> OK  >  Model already exists
 [4160/6733] type=VX  pitch=D4  symbol= en0_an    >> OK  >  Model already exists
@@ -4321,8 +4321,8 @@
 [4319/6733] type=CV  pitch=D4  symbol= gai    >> OK  >  Model already exists
 [4320/6733] type=CV  pitch=D4  symbol= gan    >> OK  >  Model already exists
 [4321/6733] type=CV  pitch=D4  symbol= gang    >> OK  >  Model already exists
-[4322/6733] type=CV  pitch=D4  symbol= gao    >> OK 
-[4323/6733] type=CV  pitch=D4  symbol= ge    >> OK 
+[4322/6733] type=CV  pitch=D4  symbol= gao    >> OK  >  Model already exists
+[4323/6733] type=CV  pitch=D4  symbol= ge    >> OK  >  Model already exists
 [4324/6733] type=CV  pitch=D4  symbol= gei    >> OK  >  Model already exists
 [4325/6733] type=CV  pitch=D4  symbol= gen    >> OK  >  Model already exists
 [4326/6733] type=CV  pitch=D4  symbol= geng    >> OK  >  Model already exists
@@ -4335,7 +4335,7 @@
 [4333/6733] type=CV  pitch=D4  symbol= guang    >> OK  >  Model already exists
 [4334/6733] type=CV  pitch=D4  symbol= gui    >> OK  >  Model already exists
 [4335/6733] type=CV  pitch=D4  symbol= gun    >> OK  >  Model already exists
-[4336/6733] type=CV  pitch=D4  symbol= guo    >> OK 
+[4336/6733] type=CV  pitch=D4  symbol= guo    >> OK  >  Model already exists
 [4337/6733] type=CV  pitch=D4  symbol= ha    >> OK  >  Model already exists
 [4338/6733] type=CV  pitch=D4  symbol= hai    >> OK  >  Model already exists
 [4339/6733] type=CV  pitch=D4  symbol= han    >> OK  >  Model already exists
@@ -4550,10 +4550,10 @@
 [4548/6733] type=CV  pitch=D4  symbol= ji    >> OK  >  Model already exists
 [4549/6733] type=CV  pitch=D4  symbol= jia    >> OK  >  Model already exists
 [4550/6733] type=CV  pitch=D4  symbol= jian    >> OK  >  Model already exists
-[4551/6733] type=CV  pitch=D4  symbol= jiang    >> OK 
+[4551/6733] type=CV  pitch=D4  symbol= jiang    >> OK  >  Model already exists
 [4552/6733] type=CV  pitch=D4  symbol= jiao    >> OK  >  Model already exists
-[4553/6733] type=CV  pitch=D4  symbol= jie    >> OK 
-[4554/6733] type=CV  pitch=D4  symbol= jin    >> OK 
+[4553/6733] type=CV  pitch=D4  symbol= jie    >> OK  >  Model already exists
+[4554/6733] type=CV  pitch=D4  symbol= jin    >> OK  >  Model already exists
 [4555/6733] type=CV  pitch=D4  symbol= jing    >> OK  >  Model already exists
 [4556/6733] type=CV  pitch=D4  symbol= jiong    >> OK  >  Model already exists
 [4557/6733] type=CV  pitch=D4  symbol= jiu    >> OK  >  Model already exists
@@ -4562,11 +4562,11 @@
 [4560/6733] type=CV  pitch=D4  symbol= jue    >> OK  >  Model already exists
 [4561/6733] type=CV  pitch=D4  symbol= jun    >> OK  >  Model already exists
 [4562/6733] type=CV  pitch=D4  symbol= ka    >> OK  >  Model already exists
-[4563/6733] type=CV  pitch=D4  symbol= kai    >> OK 
+[4563/6733] type=CV  pitch=D4  symbol= kai    >> OK  >  Model already exists
 [4564/6733] type=CV  pitch=D4  symbol= kan    >> OK  >  Model already exists
 [4565/6733] type=CV  pitch=D4  symbol= kang    >> OK  >  Model already exists
 [4566/6733] type=CV  pitch=D4  symbol= kao    >> OK  >  Model already exists
-[4567/6733] type=CV  pitch=D4  symbol= ke    >> OK 
+[4567/6733] type=CV  pitch=D4  symbol= ke    >> OK  >  Model already exists
 [4568/6733] type=CV  pitch=D4  symbol= ken    >> OK  >  Model already exists
 [4569/6733] type=CV  pitch=D4  symbol= keng    >> OK  >  Model already exists
 [4570/6733] type=CV  pitch=D4  symbol= kong    >> OK  >  Model already exists
@@ -4772,7 +4772,7 @@
 [4770/6733] type=CV  pitch=D4  symbol= pen    >> OK  >  Model already exists
 [4771/6733] type=CV  pitch=D4  symbol= peng    >> OK  >  Model already exists
 [4772/6733] type=CV  pitch=D4  symbol= pi    >> OK  >  Model already exists
-[4773/6733] type=CV  pitch=D4  symbol= pian    >> OK 
+[4773/6733] type=CV  pitch=D4  symbol= pian    >> OK  >  Model already exists
 [4774/6733] type=CV  pitch=D4  symbol= piao    >> OK  >  Model already exists
 [4775/6733] type=CV  pitch=D4  symbol= pie    >> OK  >  Model already exists
 [4776/6733] type=CV  pitch=D4  symbol= pin    >> OK  >  Model already exists
@@ -4847,7 +4847,7 @@
 [4845/6733] type=CV  pitch=D4  symbol= tai    >> OK  >  Model already exists
 [4846/6733] type=CV  pitch=D4  symbol= tan    >> OK  >  Model already exists
 [4847/6733] type=CV  pitch=D4  symbol= tang    >> OK  >  Model already exists
-[4848/6733] type=CV  pitch=D4  symbol= tao    >> OK 
+[4848/6733] type=CV  pitch=D4  symbol= tao    >> OK  >  Model already exists
 [4849/6733] type=CV  pitch=D4  symbol= te    >> OK  >  Model already exists
 [4850/6733] type=CV  pitch=D4  symbol= teng    >> OK  >  Model already exists
 [4851/6733] type=CV  pitch=D4  symbol= ti    >> OK  >  Model already exists
@@ -4973,7 +4973,7 @@
 [4971/6733] type=VX  pitch=D4  symbol= vn_t    >> OK  >  Model already exists
 [4972/6733] type=VX  pitch=D4  symbol= vn_x    >> OK  >  Model already exists
 [4973/6733] type=VX  pitch=D4  symbol= vn_y    >> OK  >  Model already exists
-[4974/6733] type=VX  pitch=D4  symbol= vn_yw    >> OK 
+[4974/6733] type=VX  pitch=D4  symbol= vn_yw    >> OK  >  Model already exists
 [4975/6733] type=VX  pitch=D4  symbol= vn_z    >> OK  >  Model already exists
 [4976/6733] type=VX  pitch=D4  symbol= vn_zh    >> OK  >  Model already exists
 [4977/6733] type=CV  pitch=D4  symbol= wa    >> OK  >  Model already exists
@@ -5004,7 +5004,7 @@
 [5002/6733] type=CV  pitch=D4  symbol= yang    >> OK  >  Model already exists
 [5003/6733] type=CV  pitch=D4  symbol= yao    >> OK  >  Model already exists
 [5004/6733] type=CV  pitch=D4  symbol= ye    >> OK  >  Model already exists
-[5005/6733] type=CV  pitch=D4  symbol= yi    >> OK 
+[5005/6733] type=CV  pitch=D4  symbol= yi    >> OK  >  Model already exists
 [5006/6733] type=CV  pitch=D4  symbol= yin    >> OK  >  Model already exists
 [5007/6733] type=CV  pitch=D4  symbol= ying    >> OK  >  Model already exists
 [5008/6733] type=CV  pitch=D4  symbol= yo    >> OK  >  Model already exists
@@ -5013,7 +5013,7 @@
 [5011/6733] type=CV  pitch=D4  symbol= yu    >> OK  >  Model already exists
 [5012/6733] type=CV  pitch=D4  symbol= yuan    >> OK  >  Model already exists
 [5013/6733] type=CV  pitch=D4  symbol= yue    >> OK  >  Model already exists
-[5014/6733] type=CV  pitch=D4  symbol= yun    >> OK 
+[5014/6733] type=CV  pitch=D4  symbol= yun    >> OK  >  Model already exists
 [5015/6733] type=CV  pitch=D4  symbol= za    >> OK  >  Model already exists
 [5016/6733] type=CV  pitch=D4  symbol= zai    >> OK  >  Model already exists
 [5017/6733] type=CV  pitch=D4  symbol= zan    >> OK  >  Model already exists
@@ -5028,7 +5028,7 @@
 [5026/6733] type=CV  pitch=D4  symbol= zhan    >> OK  >  Model already exists
 [5027/6733] type=CV  pitch=D4  symbol= zhang    >> OK  >  Model already exists
 [5028/6733] type=CV  pitch=D4  symbol= zhao    >> OK  >  Model already exists
-[5029/6733] type=CV  pitch=D4  symbol= zhe    >> OK 
+[5029/6733] type=CV  pitch=D4  symbol= zhe    >> OK  >  Model already exists
 [5030/6733] type=CV  pitch=D4  symbol= zhen    >> OK  >  Model already exists
 [5031/6733] type=CV  pitch=D4  symbol= zheng    >> OK  >  Model already exists
 [5032/6733] type=CV  pitch=D4  symbol= zhi    >> OK  >  Model already exists
@@ -5381,7 +5381,7 @@
 [5379/6733] type=CV  pitch=D5  symbol= -wai    >> OK  >  Model already exists
 [5380/6733] type=CV  pitch=D5  symbol= -wan    >> OK  >  Model already exists
 [5381/6733] type=CV  pitch=D5  symbol= -wang    >> OK  >  Model already exists
-[5382/6733] type=CV  pitch=D5  symbol= -wei    >> OK 
+[5382/6733] type=CV  pitch=D5  symbol= -wei    >> OK  >  Model already exists
 [5383/6733] type=CV  pitch=D5  symbol= -wen    >> OK  >  Model already exists
 [5384/6733] type=CV  pitch=D5  symbol= -weng    >> OK  >  Model already exists
 [5385/6733] type=CV  pitch=D5  symbol= -wo    >> OK  >  Model already exists
@@ -5572,7 +5572,7 @@
 [5570/6733] type=VX  pitch=D5  symbol= an_zh    >> OK  >  Model already exists
 [5571/6733] type=CV  pitch=D5  symbol= ang    >> OK  >  Model already exists
 [5572/6733] type=VX  pitch=D5  symbol= ang_-    >> OK  >  Model already exists
-[5573/6733] type=VX  pitch=D5  symbol= ang_R    >> OK 
+[5573/6733] type=VX  pitch=D5  symbol= ang_R    >> OK  >  Model already exists
 [5574/6733] type=VX  pitch=D5  symbol= ang_a    >> OK  >  Model already exists
 [5575/6733] type=VX  pitch=D5  symbol= ang_ai    >> OK  >  Model already exists
 [5576/6733] type=VX  pitch=D5  symbol= ang_an    >> OK  >  Model already exists
@@ -5604,7 +5604,7 @@
 [5602/6733] type=VX  pitch=D5  symbol= ang_sh    >> OK  >  Model already exists
 [5603/6733] type=VX  pitch=D5  symbol= ang_t    >> OK  >  Model already exists
 [5604/6733] type=VX  pitch=D5  symbol= ang_w    >> OK  >  Model already exists
-[5605/6733] type=VX  pitch=D5  symbol= ang_x    >> OK 
+[5605/6733] type=VX  pitch=D5  symbol= ang_x    >> OK  >  Model already exists
 [5606/6733] type=VX  pitch=D5  symbol= ang_y    >> OK  >  Model already exists
 [5607/6733] type=VX  pitch=D5  symbol= ang_yw    >> OK  >  Model already exists
 [5608/6733] type=VX  pitch=D5  symbol= ang_z    >> OK  >  Model already exists
@@ -5649,30 +5649,30 @@
 [5647/6733] type=VX  pitch=D5  symbol= ao_z    >> OK  >  Model already exists
 [5648/6733] type=VX  pitch=D5  symbol= ao_zh    >> OK  >  Model already exists
 [5649/6733] type=CV  pitch=D5  symbol= ba    >> OK  >  Model already exists
-[5650/6733] type=CV  pitch=D5  symbol= bai    >> OK 
+[5650/6733] type=CV  pitch=D5  symbol= bai    >> OK  >  Model already exists
 [5651/6733] type=CV  pitch=D5  symbol= ban    >> OK  >  Model already exists
 [5652/6733] type=CV  pitch=D5  symbol= bang    >> OK  >  Model already exists
-[5653/6733] type=CV  pitch=D5  symbol= bao    >> OK 
-[5654/6733] type=CV  pitch=D5  symbol= bei    >> OK 
+[5653/6733] type=CV  pitch=D5  symbol= bao    >> OK  >  Model already exists
+[5654/6733] type=CV  pitch=D5  symbol= bei    >> OK  >  Model already exists
 [5655/6733] type=CV  pitch=D5  symbol= ben    >> OK  >  Model already exists
 [5656/6733] type=CV  pitch=D5  symbol= beng    >> OK  >  Model already exists
 [5657/6733] type=CV  pitch=D5  symbol= bi    >> OK  >  Model already exists
-[5658/6733] type=CV  pitch=D5  symbol= bian    >> OK 
+[5658/6733] type=CV  pitch=D5  symbol= bian    >> OK  >  Model already exists
 [5659/6733] type=CV  pitch=D5  symbol= biao    >> OK  >  Model already exists
 [5660/6733] type=CV  pitch=D5  symbol= bie    >> OK  >  Model already exists
 [5661/6733] type=CV  pitch=D5  symbol= bin    >> OK  >  Model already exists
 [5662/6733] type=CV  pitch=D5  symbol= bing    >> OK  >  Model already exists
 [5663/6733] type=CV  pitch=D5  symbol= bo    >> OK  >  Model already exists
-[5664/6733] type=CV  pitch=D5  symbol= bu    >> OK 
+[5664/6733] type=CV  pitch=D5  symbol= bu    >> OK  >  Model already exists
 [5665/6733] type=CV  pitch=D5  symbol= ca    >> OK  >  Model already exists
 [5666/6733] type=CV  pitch=D5  symbol= cai    >> OK  >  Model already exists
 [5667/6733] type=CV  pitch=D5  symbol= can    >> OK  >  Model already exists
 [5668/6733] type=CV  pitch=D5  symbol= cang    >> OK  >  Model already exists
-[5669/6733] type=CV  pitch=D5  symbol= cao    >> OK 
+[5669/6733] type=CV  pitch=D5  symbol= cao    >> OK  >  Model already exists
 [5670/6733] type=CV  pitch=D5  symbol= ce    >> OK  >  Model already exists
 [5671/6733] type=CV  pitch=D5  symbol= cen    >> OK  >  Model already exists
 [5672/6733] type=CV  pitch=D5  symbol= ceng    >> OK  >  Model already exists
-[5673/6733] type=CV  pitch=D5  symbol= cha    >> OK 
+[5673/6733] type=CV  pitch=D5  symbol= cha    >> OK  >  Model already exists
 [5674/6733] type=CV  pitch=D5  symbol= chai    >> OK  >  Model already exists
 [5675/6733] type=CV  pitch=D5  symbol= chan    >> OK  >  Model already exists
 [5676/6733] type=CV  pitch=D5  symbol= chang    >> OK  >  Model already exists
@@ -5707,7 +5707,7 @@
 [5705/6733] type=CV  pitch=D5  symbol= de    >> OK  >  Model already exists
 [5706/6733] type=CV  pitch=D5  symbol= dei    >> OK  >  Model already exists
 [5707/6733] type=CV  pitch=D5  symbol= deng    >> OK  >  Model already exists
-[5708/6733] type=CV  pitch=D5  symbol= di    >> OK 
+[5708/6733] type=CV  pitch=D5  symbol= di    >> OK  >  Model already exists
 [5709/6733] type=CV  pitch=D5  symbol= dia    >> OK  >  Model already exists
 [5710/6733] type=CV  pitch=D5  symbol= dian    >> OK  >  Model already exists
 [5711/6733] type=CV  pitch=D5  symbol= diao    >> OK  >  Model already exists
@@ -5839,7 +5839,7 @@
 [5837/6733] type=VX  pitch=D5  symbol= ei_zh    >> OK  >  Model already exists
 [5838/6733] type=CV  pitch=D5  symbol= en    >> OK  >  Model already exists
 [5839/6733] type=VX  pitch=D5  symbol= en0_-    >> OK  >  Model already exists
-[5840/6733] type=VX  pitch=D5  symbol= en0_R    >> OK 
+[5840/6733] type=VX  pitch=D5  symbol= en0_R    >> OK  >  Model already exists
 [5841/6733] type=VX  pitch=D5  symbol= en0_a    >> OK  >  Model already exists
 [5842/6733] type=VX  pitch=D5  symbol= en0_ai    >> OK  >  Model already exists
 [5843/6733] type=VX  pitch=D5  symbol= en0_an    >> OK  >  Model already exists
@@ -6004,8 +6004,8 @@
 [6002/6733] type=CV  pitch=D5  symbol= gai    >> OK  >  Model already exists
 [6003/6733] type=CV  pitch=D5  symbol= gan    >> OK  >  Model already exists
 [6004/6733] type=CV  pitch=D5  symbol= gang    >> OK  >  Model already exists
-[6005/6733] type=CV  pitch=D5  symbol= gao    >> OK 
-[6006/6733] type=CV  pitch=D5  symbol= ge    >> OK 
+[6005/6733] type=CV  pitch=D5  symbol= gao    >> OK  >  Model already exists
+[6006/6733] type=CV  pitch=D5  symbol= ge    >> OK  >  Model already exists
 [6007/6733] type=CV  pitch=D5  symbol= gei    >> OK  >  Model already exists
 [6008/6733] type=CV  pitch=D5  symbol= gen    >> OK  >  Model already exists
 [6009/6733] type=CV  pitch=D5  symbol= geng    >> OK  >  Model already exists
@@ -6018,7 +6018,7 @@
 [6016/6733] type=CV  pitch=D5  symbol= guang    >> OK  >  Model already exists
 [6017/6733] type=CV  pitch=D5  symbol= gui    >> OK  >  Model already exists
 [6018/6733] type=CV  pitch=D5  symbol= gun    >> OK  >  Model already exists
-[6019/6733] type=CV  pitch=D5  symbol= guo    >> OK 
+[6019/6733] type=CV  pitch=D5  symbol= guo    >> OK  >  Model already exists
 [6020/6733] type=CV  pitch=D5  symbol= ha    >> OK  >  Model already exists
 [6021/6733] type=CV  pitch=D5  symbol= hai    >> OK  >  Model already exists
 [6022/6733] type=CV  pitch=D5  symbol= han    >> OK  >  Model already exists
@@ -6028,7 +6028,7 @@
 [6026/6733] type=CV  pitch=D5  symbol= hei    >> OK  >  Model already exists
 [6027/6733] type=CV  pitch=D5  symbol= hen    >> OK  >  Model already exists
 [6028/6733] type=CV  pitch=D5  symbol= heng    >> OK  >  Model already exists
-[6029/6733] type=CV  pitch=D5  symbol= hong    >> OK 
+[6029/6733] type=CV  pitch=D5  symbol= hong    >> OK  >  Model already exists
 [6030/6733] type=CV  pitch=D5  symbol= hou    >> OK  >  Model already exists
 [6031/6733] type=CV  pitch=D5  symbol= hu    >> OK  >  Model already exists
 [6032/6733] type=CV  pitch=D5  symbol= hua    >> OK  >  Model already exists
@@ -6076,7 +6076,7 @@
 [6074/6733] type=VX  pitch=D5  symbol= i0_y    >> OK  >  Model already exists
 [6075/6733] type=VX  pitch=D5  symbol= i0_yw    >> OK  >  Model already exists
 [6076/6733] type=VX  pitch=D5  symbol= i0_z    >> OK  >  Model already exists
-[6077/6733] type=VX  pitch=D5  symbol= i0_zh    >> OK 
+[6077/6733] type=VX  pitch=D5  symbol= i0_zh    >> OK  >  Model already exists
 [6078/6733] type=VX  pitch=D5  symbol= i_-    >> OK  >  Model already exists
 [6079/6733] type=VX  pitch=D5  symbol= i_R    >> OK  >  Model already exists
 [6080/6733] type=VX  pitch=D5  symbol= i_a    >> OK  >  Model already exists
@@ -6233,10 +6233,10 @@
 [6231/6733] type=CV  pitch=D5  symbol= ji    >> OK  >  Model already exists
 [6232/6733] type=CV  pitch=D5  symbol= jia    >> OK  >  Model already exists
 [6233/6733] type=CV  pitch=D5  symbol= jian    >> OK  >  Model already exists
-[6234/6733] type=CV  pitch=D5  symbol= jiang    >> OK 
+[6234/6733] type=CV  pitch=D5  symbol= jiang    >> OK  >  Model already exists
 [6235/6733] type=CV  pitch=D5  symbol= jiao    >> OK  >  Model already exists
-[6236/6733] type=CV  pitch=D5  symbol= jie    >> OK 
-[6237/6733] type=CV  pitch=D5  symbol= jin    >> OK 
+[6236/6733] type=CV  pitch=D5  symbol= jie    >> OK  >  Model already exists
+[6237/6733] type=CV  pitch=D5  symbol= jin    >> OK  >  Model already exists
 [6238/6733] type=CV  pitch=D5  symbol= jing    >> OK  >  Model already exists
 [6239/6733] type=CV  pitch=D5  symbol= jiong    >> OK  >  Model already exists
 [6240/6733] type=CV  pitch=D5  symbol= jiu    >> OK  >  Model already exists
@@ -6245,11 +6245,11 @@
 [6243/6733] type=CV  pitch=D5  symbol= jue    >> OK  >  Model already exists
 [6244/6733] type=CV  pitch=D5  symbol= jun    >> OK  >  Model already exists
 [6245/6733] type=CV  pitch=D5  symbol= ka    >> OK  >  Model already exists
-[6246/6733] type=CV  pitch=D5  symbol= kai    >> OK 
+[6246/6733] type=CV  pitch=D5  symbol= kai    >> OK  >  Model already exists
 [6247/6733] type=CV  pitch=D5  symbol= kan    >> OK  >  Model already exists
 [6248/6733] type=CV  pitch=D5  symbol= kang    >> OK  >  Model already exists
 [6249/6733] type=CV  pitch=D5  symbol= kao    >> OK  >  Model already exists
-[6250/6733] type=CV  pitch=D5  symbol= ke    >> OK 
+[6250/6733] type=CV  pitch=D5  symbol= ke    >> OK  >  Model already exists
 [6251/6733] type=CV  pitch=D5  symbol= ken    >> OK  >  Model already exists
 [6252/6733] type=CV  pitch=D5  symbol= keng    >> OK  >  Model already exists
 [6253/6733] type=CV  pitch=D5  symbol= kong    >> OK  >  Model already exists
@@ -6455,7 +6455,7 @@
 [6453/6733] type=CV  pitch=D5  symbol= pen    >> OK  >  Model already exists
 [6454/6733] type=CV  pitch=D5  symbol= peng    >> OK  >  Model already exists
 [6455/6733] type=CV  pitch=D5  symbol= pi    >> OK  >  Model already exists
-[6456/6733] type=CV  pitch=D5  symbol= pian    >> OK 
+[6456/6733] type=CV  pitch=D5  symbol= pian    >> OK  >  Model already exists
 [6457/6733] type=CV  pitch=D5  symbol= piao    >> OK  >  Model already exists
 [6458/6733] type=CV  pitch=D5  symbol= pie    >> OK  >  Model already exists
 [6459/6733] type=CV  pitch=D5  symbol= pin    >> OK  >  Model already exists
@@ -6530,7 +6530,7 @@
 [6528/6733] type=CV  pitch=D5  symbol= tai    >> OK  >  Model already exists
 [6529/6733] type=CV  pitch=D5  symbol= tan    >> OK  >  Model already exists
 [6530/6733] type=CV  pitch=D5  symbol= tang    >> OK  >  Model already exists
-[6531/6733] type=CV  pitch=D5  symbol= tao    >> OK 
+[6531/6733] type=CV  pitch=D5  symbol= tao    >> OK  >  Model already exists
 [6532/6733] type=CV  pitch=D5  symbol= te    >> OK  >  Model already exists
 [6533/6733] type=CV  pitch=D5  symbol= teng    >> OK  >  Model already exists
 [6534/6733] type=CV  pitch=D5  symbol= ti    >> OK  >  Model already exists
@@ -6656,7 +6656,7 @@
 [6654/6733] type=VX  pitch=D5  symbol= vn_t    >> OK  >  Model already exists
 [6655/6733] type=VX  pitch=D5  symbol= vn_x    >> OK  >  Model already exists
 [6656/6733] type=VX  pitch=D5  symbol= vn_y    >> OK  >  Model already exists
-[6657/6733] type=VX  pitch=D5  symbol= vn_yw    >> OK 
+[6657/6733] type=VX  pitch=D5  symbol= vn_yw    >> OK  >  Model already exists
 [6658/6733] type=VX  pitch=D5  symbol= vn_z    >> OK  >  Model already exists
 [6659/6733] type=VX  pitch=D5  symbol= vn_zh    >> OK  >  Model already exists
 [6660/6733] type=CV  pitch=D5  symbol= wa    >> OK  >  Model already exists
@@ -6687,7 +6687,7 @@
 [6685/6733] type=CV  pitch=D5  symbol= yang    >> OK  >  Model already exists
 [6686/6733] type=CV  pitch=D5  symbol= yao    >> OK  >  Model already exists
 [6687/6733] type=CV  pitch=D5  symbol= ye    >> OK  >  Model already exists
-[6688/6733] type=CV  pitch=D5  symbol= yi    >> OK 
+[6688/6733] type=CV  pitch=D5  symbol= yi    >> OK  >  Model already exists
 [6689/6733] type=CV  pitch=D5  symbol= yin    >> OK  >  Model already exists
 [6690/6733] type=CV  pitch=D5  symbol= ying    >> OK  >  Model already exists
 [6691/6733] type=CV  pitch=D5  symbol= yo    >> OK  >  Model already exists
@@ -6696,7 +6696,7 @@
 [6694/6733] type=CV  pitch=D5  symbol= yu    >> OK  >  Model already exists
 [6695/6733] type=CV  pitch=D5  symbol= yuan    >> OK  >  Model already exists
 [6696/6733] type=CV  pitch=D5  symbol= yue    >> OK  >  Model already exists
-[6697/6733] type=CV  pitch=D5  symbol= yun    >> OK 
+[6697/6733] type=CV  pitch=D5  symbol= yun    >> OK  >  Model already exists
 [6698/6733] type=CV  pitch=D5  symbol= za    >> OK  >  Model already exists
 [6699/6733] type=CV  pitch=D5  symbol= zai    >> OK  >  Model already exists
 [6700/6733] type=CV  pitch=D5  symbol= zan    >> OK  >  Model already exists
@@ -6711,7 +6711,7 @@
 [6709/6733] type=CV  pitch=D5  symbol= zhan    >> OK  >  Model already exists
 [6710/6733] type=CV  pitch=D5  symbol= zhang    >> OK  >  Model already exists
 [6711/6733] type=CV  pitch=D5  symbol= zhao    >> OK  >  Model already exists
-[6712/6733] type=CV  pitch=D5  symbol= zhe    >> OK 
+[6712/6733] type=CV  pitch=D5  symbol= zhe    >> OK  >  Model already exists
 [6713/6733] type=CV  pitch=D5  symbol= zhen    >> OK  >  Model already exists
 [6714/6733] type=CV  pitch=D5  symbol= zheng    >> OK  >  Model already exists
 [6715/6733] type=CV  pitch=D5  symbol= zhi    >> OK  >  Model already exists
@@ -6734,4 +6734,4 @@
 [6732/6733] type=CV  pitch=D5  symbol= zun    >> OK  >  Model already exists
 [6733/6733] type=CV  pitch=D5  symbol= zuo    >> OK  >  Model already exists
 
--------------End 2021-05-26 10:34:37------------
+-------------End 2021-05-26 22:08:28------------
