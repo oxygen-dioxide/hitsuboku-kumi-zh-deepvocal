@@ -21,6 +21,7 @@ Allowed without permission.
 
 ### Commercial Use of Character
 Such as doujin/fan made merchandise, promotional material, etc. that feature "Hitsuboku Kumi" and are exchanged for money.
+
 Allowed with permission from developer (Cubialpha).
 
 ### Redistribution of Voicebanks (Public & Private)
@@ -31,21 +32,24 @@ Allowed without permission, so long as the name "Hitsuboku Kumi" is unchanged, a
 
 ### Import and Use of Audio Samples in Other Synthesis Software
 Such as: DeepVocal, NiaoNiao, etc.
+
 Allowed without permission, so long as the name "Hitsuboku Kumi" is unchanged.
 
 ### Editing of Official "Hitsuboku Kumi" Illustrations
 Includes tracing, drawing on/over, recoloring, and any permenant modifications to the original artwork files.
+
 Forbidden
 
 ### Commercial Use of Official "Hitsuboku Kumi" Illustrations
 i.e. Printing and selling merchandise featuring official "Hitsuboku Kumi" illustrations.
+
 Forbidden
 
 ### Cropping and/or Hue Editing of Official "Hitsuboku Kumi" Illustrations/Logos
 i.e. For use in videos, thumbnails, covers, etc.
 Allowed without permission & artist is given proper credit.
 
-By downloading "Hitsuboku Kumi" voicebanks, you are agreeing to abide by the listed "Terms of Use".
+**By downloading "Hitsuboku Kumi" voicebanks, you are agreeing to abide by the listed "Terms of Use".**
 
 # Hitsuboku Kumi 用户协议
 
@@ -69,7 +73,8 @@ Deepvocal 移植版作者：oxygen-dioxide [Github](https://github.com/oxygen-di
 允许，无需联络。
 
 ### 角色的商业使用
-含有"Hitsuboku Kumi"的付费商品，例如同人周边、宣传材料
+含有"Hitsuboku Kumi"的付费商品，例如同人周边、宣传材料。
+
 需事先获得原作者（Cubialpha）的授权。
 
 ### 二次配布音源（公开配布或私下配布）
@@ -80,6 +85,7 @@ Deepvocal 移植版作者：oxygen-dioxide [Github](https://github.com/oxygen-di
 
 ### 将原始音频移植到其他歌声合成软件
 例如Deepvocal、NiaoNiao等。
+
 允许，无需联络，但需保持名称"Hitsuboku Kumi"不变。
 
 ### 修改官方画作
@@ -88,10 +94,12 @@ Deepvocal 移植版作者：oxygen-dioxide [Github](https://github.com/oxygen-di
 
 ### 官方画作的商业使用
 打印、销售含有"Hitsuboku Kumi"官方画作的商品。
+
 严格禁止。
 
 ### 对官方画作进行裁剪、编辑色调
 用于视频、缩略图、封面等。
+
 允许，无需联络，但需注明画作的原作者。
 
-下载"Hitsuboku Kumi"音源，即表示您已确认接受本用户协议。
+**下载"Hitsuboku Kumi"音源，即表示您已确认接受本用户协议。**
