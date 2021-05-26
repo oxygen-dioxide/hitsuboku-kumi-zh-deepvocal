@@ -55,7 +55,7 @@ By downloading "Hitsuboku Kumi" voicebanks, you are agreeing to abide by the lis
 
 [Deepvocal 移植版配布页面](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal)
 
-原作者：Cubialpha [twitter](https://twitter.com/_cubialpha)
+原作者：Cubialpha [Twitter](https://twitter.com/_cubialpha)
 
 Deepvocal 移植版作者：oxygen-dioxide [Github](https://github.com/oxygen-dioxide)
 
