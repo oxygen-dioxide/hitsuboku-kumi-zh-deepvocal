@@ -12,7 +12,26 @@ According to Hitsuboku Kumi's [Terms of use](https://cubialpha.wixsite.com/kooms
 ## Changes to the audio samples
 - The volume is Normalized to -9db
 
+## How to build this
+1. Download this project with the following command:
+```
+git clone https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal
+```
+
+2. Download and install [deepvocal toolbox](https://dl.deep-vocal.com/toolbox/Setup_DeepVocalToolBox_beta_2.1.0.zip)
+
+3. Open kumi.dvtb with deepvocal toolbox. Click"Function→Build voice bank", set "wav locations", "model file location" and "voice bank location" to your download path
+
+For example, if you downloaded this repo to C:\hitsuboku-kumi-chn-deepvocal, then you have to set paths like this:
+![](Resource/2021-05-26-16-53-26.png)
+
+4. Click "Build Voice Model Files" to compile this voicebank.
+
+5. Click "Build Voice Bank" to pack this voicebank.
+
 ## Links
 [Deepvocal Official Site](deep-vocal.com)
+
+[Deepvocal toolbox manual](https://drive.google.com/drive/folders/1kAlPZnSO9f4pv5wbVJUdNNQXZQOy6pGA?usp=sharing)
 
 [Hitsuboku Kumi Official Site](https://cubialpha.wixsite.com/koomstar)
