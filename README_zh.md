@@ -1,9 +1,12 @@
 # hitsuboku-kumi-chn-deepvocal
 [English](README.md) | **中文**
-## 关于本项目
+
 Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目将Hitsuboku Kumi的中文CVVC音源移植到deepvocal引擎。这是Github上首个开源deepvocal音源。
 
 根据Hitsuboku Kumi的[用户协议](https://cubialpha.wixsite.com/koomstar/character)，二次分发，修改oto.ini和音频文件，以及移植到其他合成引擎是允许的，但需要保持名称"Hitsuboku Kumi"不变，注明原作者"Cubialpha"，提供[官网链接](https://cubialpha.wixsite.com/koomstar)，并明确说明你做了编辑。
+
+## 下载
+从[Release页面](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/releases/latest)下载音源
 
 ## 技术规格
 - 4音阶 (A3, D4, A4, D5)
@@ -11,11 +14,11 @@ Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目�
 - 尾音：R
 - Deepvocal Toolbox 2.1.0
 
-## 本项目对音频的修改
+## 对音频的修改
 - 音量标准化到-9db
 
-## 自行编译本项目
-1. 用以下命令下载本项目：
+## 自行编译音源
+1. 用以下命令下载源文件：
 ```
 git clone https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal
 ```
