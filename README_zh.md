@@ -18,6 +18,8 @@ Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目�
 - 喉塞音（来自[Hitsuboku Kumi 日文Act4](https://cubialpha.wixsite.com/koomstar/act4)），例如"!a" "a_!"
 - Deepvocal Toolbox 2.1.0
 
+详见[特性列表](feature.md)
+
 ## 对音频的修改
 - 音量已被标准化到-9db
 

@@ -18,6 +18,8 @@ Download voicebank from [release page](https://github.com/oxygen-dioxide/hitsubo
 - vowel pause from [Hitsuboku Kumi Japanese Act4](https://cubialpha.wixsite.com/koomstar/act4): "!a" "a_!" etc
 - Deepvocal Toolbox 2.1.0
 
+See [feature list](feature.md) for details
+
 ## Changes to the audio samples
 - The volume is Normalized to -9db
 

@@ -47,6 +47,7 @@ Forbidden
 
 ### Cropping and/or Hue Editing of Official "Hitsuboku Kumi" Illustrations/Logos
 i.e. For use in videos, thumbnails, covers, etc.
+
 Allowed without permission & artist is given proper credit.
 
 **By downloading "Hitsuboku Kumi" voicebanks, you are agreeing to abide by the listed "Terms of Use".**
@@ -90,6 +91,7 @@ Deepvocal 移植版作者：oxygen-dioxide [Github](https://github.com/oxygen-di
 
 ### 修改官方画作
 包括描图、在原画基础上绘制、重新上色，以及其他任何对官方画作的修改。
+
 严格禁止。
 
 ### 官方画作的商业使用
