@@ -5,8 +5,7 @@ Hitsuboku Kumi (筆墨クミ) is a UTAU virtual singer developed by Cubialpha. T
 
 According to Hitsuboku Kumi's [Terms of use](https://cubialpha.wixsite.com/koomstar/character), redistribution of voicebanks, editing of oto.ini and audio samples, and porting to other synthesis softwares are allowed without permission, so long as the name "Hitsuboku Kumi" is unchanged, "Cubialpha" is credited, a link to [this website](https://cubialpha.wixsite.com/koomstar) is included, and it is clearly stated that you have made edits.
 
-## Demo
-![](https://user-images.githubusercontent.com/54425948/119779327-231b6a00-befb-11eb-81d1-98b1f2a90a34.mp4)
+## [Demo](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/issues/1)
 (花欺~沉睡在浮空的花海, Original Music:Cube^3, Lyric:雨狸, midi:卦者那啥子靈風)
 
 ## Download
