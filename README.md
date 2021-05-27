@@ -5,6 +5,10 @@ Hitsuboku Kumi (筆墨クミ) is a UTAU virtual singer developed by Cubialpha. T
 
 According to Hitsuboku Kumi's [Terms of use](https://cubialpha.wixsite.com/koomstar/character), redistribution of voicebanks, editing of oto.ini and audio samples, and porting to other synthesis softwares are allowed without permission, so long as the name "Hitsuboku Kumi" is unchanged, "Cubialpha" is credited, a link to [this website](https://cubialpha.wixsite.com/koomstar) is included, and it is clearly stated that you have made edits.
 
+## Demo
+![](https://user-images.githubusercontent.com/54425948/119779327-231b6a00-befb-11eb-81d1-98b1f2a90a34.mp4)
+(花欺~沉睡在浮空的花海, Original Music:Cube^3, Lyric:雨狸, midi:卦者那啥子靈風)
+
 ## Download
 Download voicebank from [release page](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/releases/latest)
 
@@ -12,6 +16,7 @@ Download voicebank from [release page](https://github.com/oxygen-dioxide/hitsubo
 - 4-pitch (A3, D4, A4, D5)
 - using Voicemith Reclist
 - tail symbol: R
+- vowel pause from [Hitsuboku Kumi Japanese Act4](https://cubialpha.wixsite.com/koomstar/act4): "!a" "a_!" etc
 - Deepvocal Toolbox 2.1.0
 
 ## Changes to the audio samples
