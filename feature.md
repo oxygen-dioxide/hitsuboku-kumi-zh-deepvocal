@@ -41,7 +41,7 @@ a ai an ang ao o ou ong e ei en eng e0 en0 i in ing u v vn i0 ir er
 
 ![](Resource/2021-05-27-22-05-32.png)
 
-- 开头或句中调用："!+"，支持!a !ai !an !ang !ao !i !in !ing !e0 !ei !en0 !o !ou !ong
+- 开头或句中调用："!+元音"，支持!a !ai !an !ang !ao !i !in !ing !e0 !ei !en0 !o !ou !ong
 
 ![](Resource/2021-05-27-22-07-30.png)
 

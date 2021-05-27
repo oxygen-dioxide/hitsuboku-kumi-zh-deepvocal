@@ -1,0 +1,7291 @@
+{
+    "editor": "DVMT",
+    "flags": [
+        {
+            "isCV": 1,
+            "name": "!a"
+        },
+        {
+            "isCV": 1,
+            "name": "-!a"
+        },
+        {
+            "isCV": 1,
+            "name": "!ai"
+        },
+        {
+            "isCV": 1,
+            "name": "-!ai"
+        },
+        {
+            "isCV": 1,
+            "name": "!an"
+        },
+        {
+            "isCV": 1,
+            "name": "-!an"
+        },
+        {
+            "isCV": 1,
+            "name": "!ang"
+        },
+        {
+            "isCV": 1,
+            "name": "-!ang"
+        },
+        {
+            "isCV": 1,
+            "name": "!ao"
+        },
+        {
+            "isCV": 1,
+            "name": "-!ao"
+        },
+        {
+            "isCV": 1,
+            "name": "!e"
+        },
+        {
+            "isCV": 1,
+            "name": "-!e"
+        },
+        {
+            "isCV": 1,
+            "name": "!ei"
+        },
+        {
+            "isCV": 1,
+            "name": "-!ei"
+        },
+        {
+            "isCV": 1,
+            "name": "!en"
+        },
+        {
+            "isCV": 1,
+            "name": "-!en"
+        },
+        {
+            "isCV": 1,
+            "name": "!eng"
+        },
+        {
+            "isCV": 1,
+            "name": "-!eng"
+        },
+        {
+            "isCV": 1,
+            "name": "!er"
+        },
+        {
+            "isCV": 1,
+            "name": "-!er"
+        },
+        {
+            "isCV": 1,
+            "name": "!i"
+        },
+        {
+            "isCV": 1,
+            "name": "-!i"
+        },
+        {
+            "isCV": 1,
+            "name": "!ing"
+        },
+        {
+            "isCV": 1,
+            "name": "-!ing"
+        },
+        {
+            "isCV": 1,
+            "name": "!in"
+        },
+        {
+            "isCV": 1,
+            "name": "-!in"
+        },
+        {
+            "isCV": 1,
+            "name": "!ong"
+        },
+        {
+            "isCV": 1,
+            "name": "-!ong"
+        },
+        {
+            "isCV": 1,
+            "name": "!o"
+        },
+        {
+            "isCV": 1,
+            "name": "-!o"
+        },
+        {
+            "isCV": 1,
+            "name": "!ou"
+        },
+        {
+            "isCV": 1,
+            "name": "-!ou"
+        },
+        {
+            "isCV": 1,
+            "name": "!u"
+        },
+        {
+            "isCV": 1,
+            "name": "-!u"
+        },
+        {
+            "isCV": 1,
+            "name": "!e0"
+        },
+        {
+            "isCV": 1,
+            "name": "-!e0"
+        },
+        {
+            "isCV": 1,
+            "name": "!vn"
+        },
+        {
+            "isCV": 1,
+            "name": "-!vn"
+        },
+        {
+            "isCV": 1,
+            "name": "!v"
+        },
+        {
+            "isCV": 1,
+            "name": "-!v"
+        },
+        {
+            "isCV": 1,
+            "name": "a"
+        },
+        {
+            "isCV": 1,
+            "name": "-a"
+        },
+        {
+            "isCV": 1,
+            "name": "ai"
+        },
+        {
+            "isCV": 1,
+            "name": "-ai"
+        },
+        {
+            "isCV": 1,
+            "name": "an"
+        },
+        {
+            "isCV": 1,
+            "name": "-an"
+        },
+        {
+            "isCV": 1,
+            "name": "ang"
+        },
+        {
+            "isCV": 1,
+            "name": "-ang"
+        },
+        {
+            "isCV": 1,
+            "name": "ao"
+        },
+        {
+            "isCV": 1,
+            "name": "-ao"
+        },
+        {
+            "isCV": 1,
+            "name": "ba"
+        },
+        {
+            "isCV": 1,
+            "name": "-ba"
+        },
+        {
+            "isCV": 1,
+            "name": "bai"
+        },
+        {
+            "isCV": 1,
+            "name": "-bai"
+        },
+        {
+            "isCV": 1,
+            "name": "ban"
+        },
+        {
+            "isCV": 1,
+            "name": "-ban"
+        },
+        {
+            "isCV": 1,
+            "name": "bang"
+        },
+        {
+            "isCV": 1,
+            "name": "-bang"
+        },
+        {
+            "isCV": 1,
+            "name": "bao"
+        },
+        {
+            "isCV": 1,
+            "name": "-bao"
+        },
+        {
+            "isCV": 1,
+            "name": "bei"
+        },
+        {
+            "isCV": 1,
+            "name": "-bei"
+        },
+        {
+            "isCV": 1,
+            "name": "ben"
+        },
+        {
+            "isCV": 1,
+            "name": "-ben"
+        },
+        {
+            "isCV": 1,
+            "name": "beng"
+        },
+        {
+            "isCV": 1,
+            "name": "-beng"
+        },
+        {
+            "isCV": 1,
+            "name": "bi"
+        },
+        {
+            "isCV": 1,
+            "name": "-bi"
+        },
+        {
+            "isCV": 1,
+            "name": "bian"
+        },
+        {
+            "isCV": 1,
+            "name": "-bian"
+        },
+        {
+            "isCV": 1,
+            "name": "biao"
+        },
+        {
+            "isCV": 1,
+            "name": "-biao"
+        },
+        {
+            "isCV": 1,
+            "name": "bie"
+        },
+        {
+            "isCV": 1,
+            "name": "-bie"
+        },
+        {
+            "isCV": 1,
+            "name": "bin"
+        },
+        {
+            "isCV": 1,
+            "name": "-bin"
+        },
+        {
+            "isCV": 1,
+            "name": "bing"
+        },
+        {
+            "isCV": 1,
+            "name": "-bing"
+        },
+        {
+            "isCV": 1,
+            "name": "bo"
+        },
+        {
+            "isCV": 1,
+            "name": "-bo"
+        },
+        {
+            "isCV": 1,
+            "name": "bu"
+        },
+        {
+            "isCV": 1,
+            "name": "-bu"
+        },
+        {
+            "isCV": 1,
+            "name": "ca"
+        },
+        {
+            "isCV": 1,
+            "name": "-ca"
+        },
+        {
+            "isCV": 1,
+            "name": "cai"
+        },
+        {
+            "isCV": 1,
+            "name": "-cai"
+        },
+        {
+            "isCV": 1,
+            "name": "can"
+        },
+        {
+            "isCV": 1,
+            "name": "-can"
+        },
+        {
+            "isCV": 1,
+            "name": "cang"
+        },
+        {
+            "isCV": 1,
+            "name": "-cang"
+        },
+        {
+            "isCV": 1,
+            "name": "cao"
+        },
+        {
+            "isCV": 1,
+            "name": "-cao"
+        },
+        {
+            "isCV": 1,
+            "name": "ce"
+        },
+        {
+            "isCV": 1,
+            "name": "-ce"
+        },
+        {
+            "isCV": 1,
+            "name": "cen"
+        },
+        {
+            "isCV": 1,
+            "name": "-cen"
+        },
+        {
+            "isCV": 1,
+            "name": "ceng"
+        },
+        {
+            "isCV": 1,
+            "name": "-ceng"
+        },
+        {
+            "isCV": 1,
+            "name": "cha"
+        },
+        {
+            "isCV": 1,
+            "name": "-cha"
+        },
+        {
+            "isCV": 1,
+            "name": "chai"
+        },
+        {
+            "isCV": 1,
+            "name": "-chai"
+        },
+        {
+            "isCV": 1,
+            "name": "chan"
+        },
+        {
+            "isCV": 1,
+            "name": "-chan"
+        },
+        {
+            "isCV": 1,
+            "name": "chang"
+        },
+        {
+            "isCV": 1,
+            "name": "-chang"
+        },
+        {
+            "isCV": 1,
+            "name": "chao"
+        },
+        {
+            "isCV": 1,
+            "name": "-chao"
+        },
+        {
+            "isCV": 1,
+            "name": "che"
+        },
+        {
+            "isCV": 1,
+            "name": "-che"
+        },
+        {
+            "isCV": 1,
+            "name": "chen"
+        },
+        {
+            "isCV": 1,
+            "name": "-chen"
+        },
+        {
+            "isCV": 1,
+            "name": "cheng"
+        },
+        {
+            "isCV": 1,
+            "name": "-cheng"
+        },
+        {
+            "isCV": 1,
+            "name": "chi"
+        },
+        {
+            "isCV": 1,
+            "name": "-chi"
+        },
+        {
+            "isCV": 1,
+            "name": "chong"
+        },
+        {
+            "isCV": 1,
+            "name": "-chong"
+        },
+        {
+            "isCV": 1,
+            "name": "chou"
+        },
+        {
+            "isCV": 1,
+            "name": "-chou"
+        },
+        {
+            "isCV": 1,
+            "name": "chu"
+        },
+        {
+            "isCV": 1,
+            "name": "-chu"
+        },
+        {
+            "isCV": 1,
+            "name": "chua"
+        },
+        {
+            "isCV": 1,
+            "name": "-chua"
+        },
+        {
+            "isCV": 1,
+            "name": "chuai"
+        },
+        {
+            "isCV": 1,
+            "name": "-chuai"
+        },
+        {
+            "isCV": 1,
+            "name": "chuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-chuan"
+        },
+        {
+            "isCV": 1,
+            "name": "chuang"
+        },
+        {
+            "isCV": 1,
+            "name": "-chuang"
+        },
+        {
+            "isCV": 1,
+            "name": "chui"
+        },
+        {
+            "isCV": 1,
+            "name": "-chui"
+        },
+        {
+            "isCV": 1,
+            "name": "chun"
+        },
+        {
+            "isCV": 1,
+            "name": "-chun"
+        },
+        {
+            "isCV": 1,
+            "name": "chuo"
+        },
+        {
+            "isCV": 1,
+            "name": "-chuo"
+        },
+        {
+            "isCV": 1,
+            "name": "ci"
+        },
+        {
+            "isCV": 1,
+            "name": "-ci"
+        },
+        {
+            "isCV": 1,
+            "name": "cong"
+        },
+        {
+            "isCV": 1,
+            "name": "-cong"
+        },
+        {
+            "isCV": 1,
+            "name": "cou"
+        },
+        {
+            "isCV": 1,
+            "name": "-cou"
+        },
+        {
+            "isCV": 1,
+            "name": "cu"
+        },
+        {
+            "isCV": 1,
+            "name": "-cu"
+        },
+        {
+            "isCV": 1,
+            "name": "cuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-cuan"
+        },
+        {
+            "isCV": 1,
+            "name": "cui"
+        },
+        {
+            "isCV": 1,
+            "name": "-cui"
+        },
+        {
+            "isCV": 1,
+            "name": "cun"
+        },
+        {
+            "isCV": 1,
+            "name": "-cun"
+        },
+        {
+            "isCV": 1,
+            "name": "cuo"
+        },
+        {
+            "isCV": 1,
+            "name": "-cuo"
+        },
+        {
+            "isCV": 1,
+            "name": "da"
+        },
+        {
+            "isCV": 1,
+            "name": "-da"
+        },
+        {
+            "isCV": 1,
+            "name": "dai"
+        },
+        {
+            "isCV": 1,
+            "name": "-dai"
+        },
+        {
+            "isCV": 1,
+            "name": "dan"
+        },
+        {
+            "isCV": 1,
+            "name": "-dan"
+        },
+        {
+            "isCV": 1,
+            "name": "dang"
+        },
+        {
+            "isCV": 1,
+            "name": "-dang"
+        },
+        {
+            "isCV": 1,
+            "name": "dao"
+        },
+        {
+            "isCV": 1,
+            "name": "-dao"
+        },
+        {
+            "isCV": 1,
+            "name": "de"
+        },
+        {
+            "isCV": 1,
+            "name": "-de"
+        },
+        {
+            "isCV": 1,
+            "name": "dei"
+        },
+        {
+            "isCV": 1,
+            "name": "-dei"
+        },
+        {
+            "isCV": 1,
+            "name": "den"
+        },
+        {
+            "isCV": 1,
+            "name": "-den"
+        },
+        {
+            "isCV": 1,
+            "name": "deng"
+        },
+        {
+            "isCV": 1,
+            "name": "-deng"
+        },
+        {
+            "isCV": 1,
+            "name": "di"
+        },
+        {
+            "isCV": 1,
+            "name": "-di"
+        },
+        {
+            "isCV": 1,
+            "name": "dia"
+        },
+        {
+            "isCV": 1,
+            "name": "-dia"
+        },
+        {
+            "isCV": 1,
+            "name": "dian"
+        },
+        {
+            "isCV": 1,
+            "name": "-dian"
+        },
+        {
+            "isCV": 1,
+            "name": "diao"
+        },
+        {
+            "isCV": 1,
+            "name": "-diao"
+        },
+        {
+            "isCV": 1,
+            "name": "die"
+        },
+        {
+            "isCV": 1,
+            "name": "-die"
+        },
+        {
+            "isCV": 1,
+            "name": "ding"
+        },
+        {
+            "isCV": 1,
+            "name": "-ding"
+        },
+        {
+            "isCV": 1,
+            "name": "diu"
+        },
+        {
+            "isCV": 1,
+            "name": "-diu"
+        },
+        {
+            "isCV": 1,
+            "name": "dong"
+        },
+        {
+            "isCV": 1,
+            "name": "-dong"
+        },
+        {
+            "isCV": 1,
+            "name": "dou"
+        },
+        {
+            "isCV": 1,
+            "name": "-dou"
+        },
+        {
+            "isCV": 1,
+            "name": "du"
+        },
+        {
+            "isCV": 1,
+            "name": "-du"
+        },
+        {
+            "isCV": 1,
+            "name": "duan"
+        },
+        {
+            "isCV": 1,
+            "name": "-duan"
+        },
+        {
+            "isCV": 1,
+            "name": "dui"
+        },
+        {
+            "isCV": 1,
+            "name": "-dui"
+        },
+        {
+            "isCV": 1,
+            "name": "dun"
+        },
+        {
+            "isCV": 1,
+            "name": "-dun"
+        },
+        {
+            "isCV": 1,
+            "name": "duo"
+        },
+        {
+            "isCV": 1,
+            "name": "-duo"
+        },
+        {
+            "isCV": 1,
+            "name": "e"
+        },
+        {
+            "isCV": 1,
+            "name": "-e"
+        },
+        {
+            "isCV": 1,
+            "name": "ei"
+        },
+        {
+            "isCV": 1,
+            "name": "-ei"
+        },
+        {
+            "isCV": 1,
+            "name": "en"
+        },
+        {
+            "isCV": 1,
+            "name": "-en"
+        },
+        {
+            "isCV": 1,
+            "name": "er"
+        },
+        {
+            "isCV": 1,
+            "name": "-er"
+        },
+        {
+            "isCV": 1,
+            "name": "fa"
+        },
+        {
+            "isCV": 1,
+            "name": "-fa"
+        },
+        {
+            "isCV": 1,
+            "name": "fan"
+        },
+        {
+            "isCV": 1,
+            "name": "-fan"
+        },
+        {
+            "isCV": 1,
+            "name": "fang"
+        },
+        {
+            "isCV": 1,
+            "name": "-fang"
+        },
+        {
+            "isCV": 1,
+            "name": "fei"
+        },
+        {
+            "isCV": 1,
+            "name": "-fei"
+        },
+        {
+            "isCV": 1,
+            "name": "fen"
+        },
+        {
+            "isCV": 1,
+            "name": "-fen"
+        },
+        {
+            "isCV": 1,
+            "name": "feng"
+        },
+        {
+            "isCV": 1,
+            "name": "-feng"
+        },
+        {
+            "isCV": 1,
+            "name": "fo"
+        },
+        {
+            "isCV": 1,
+            "name": "-fo"
+        },
+        {
+            "isCV": 1,
+            "name": "fou"
+        },
+        {
+            "isCV": 1,
+            "name": "-fou"
+        },
+        {
+            "isCV": 1,
+            "name": "fu"
+        },
+        {
+            "isCV": 1,
+            "name": "-fu"
+        },
+        {
+            "isCV": 1,
+            "name": "ga"
+        },
+        {
+            "isCV": 1,
+            "name": "-ga"
+        },
+        {
+            "isCV": 1,
+            "name": "gai"
+        },
+        {
+            "isCV": 1,
+            "name": "-gai"
+        },
+        {
+            "isCV": 1,
+            "name": "gan"
+        },
+        {
+            "isCV": 1,
+            "name": "-gan"
+        },
+        {
+            "isCV": 1,
+            "name": "gang"
+        },
+        {
+            "isCV": 1,
+            "name": "-gang"
+        },
+        {
+            "isCV": 1,
+            "name": "gao"
+        },
+        {
+            "isCV": 1,
+            "name": "-gao"
+        },
+        {
+            "isCV": 1,
+            "name": "ge"
+        },
+        {
+            "isCV": 1,
+            "name": "-ge"
+        },
+        {
+            "isCV": 1,
+            "name": "gei"
+        },
+        {
+            "isCV": 1,
+            "name": "-gei"
+        },
+        {
+            "isCV": 1,
+            "name": "gen"
+        },
+        {
+            "isCV": 1,
+            "name": "-gen"
+        },
+        {
+            "isCV": 1,
+            "name": "geng"
+        },
+        {
+            "isCV": 1,
+            "name": "-geng"
+        },
+        {
+            "isCV": 1,
+            "name": "gong"
+        },
+        {
+            "isCV": 1,
+            "name": "-gong"
+        },
+        {
+            "isCV": 1,
+            "name": "gou"
+        },
+        {
+            "isCV": 1,
+            "name": "-gou"
+        },
+        {
+            "isCV": 1,
+            "name": "gu"
+        },
+        {
+            "isCV": 1,
+            "name": "-gu"
+        },
+        {
+            "isCV": 1,
+            "name": "gua"
+        },
+        {
+            "isCV": 1,
+            "name": "-gua"
+        },
+        {
+            "isCV": 1,
+            "name": "guai"
+        },
+        {
+            "isCV": 1,
+            "name": "-guai"
+        },
+        {
+            "isCV": 1,
+            "name": "guan"
+        },
+        {
+            "isCV": 1,
+            "name": "-guan"
+        },
+        {
+            "isCV": 1,
+            "name": "guang"
+        },
+        {
+            "isCV": 1,
+            "name": "-guang"
+        },
+        {
+            "isCV": 1,
+            "name": "gui"
+        },
+        {
+            "isCV": 1,
+            "name": "-gui"
+        },
+        {
+            "isCV": 1,
+            "name": "gun"
+        },
+        {
+            "isCV": 1,
+            "name": "-gun"
+        },
+        {
+            "isCV": 1,
+            "name": "guo"
+        },
+        {
+            "isCV": 1,
+            "name": "-guo"
+        },
+        {
+            "isCV": 1,
+            "name": "ha"
+        },
+        {
+            "isCV": 1,
+            "name": "-ha"
+        },
+        {
+            "isCV": 1,
+            "name": "hai"
+        },
+        {
+            "isCV": 1,
+            "name": "-hai"
+        },
+        {
+            "isCV": 1,
+            "name": "han"
+        },
+        {
+            "isCV": 1,
+            "name": "-han"
+        },
+        {
+            "isCV": 1,
+            "name": "hang"
+        },
+        {
+            "isCV": 1,
+            "name": "-hang"
+        },
+        {
+            "isCV": 1,
+            "name": "hao"
+        },
+        {
+            "isCV": 1,
+            "name": "-hao"
+        },
+        {
+            "isCV": 1,
+            "name": "he"
+        },
+        {
+            "isCV": 1,
+            "name": "-he"
+        },
+        {
+            "isCV": 1,
+            "name": "hei"
+        },
+        {
+            "isCV": 1,
+            "name": "-hei"
+        },
+        {
+            "isCV": 1,
+            "name": "hen"
+        },
+        {
+            "isCV": 1,
+            "name": "-hen"
+        },
+        {
+            "isCV": 1,
+            "name": "heng"
+        },
+        {
+            "isCV": 1,
+            "name": "-heng"
+        },
+        {
+            "isCV": 1,
+            "name": "hong"
+        },
+        {
+            "isCV": 1,
+            "name": "-hong"
+        },
+        {
+            "isCV": 1,
+            "name": "hou"
+        },
+        {
+            "isCV": 1,
+            "name": "-hou"
+        },
+        {
+            "isCV": 1,
+            "name": "hu"
+        },
+        {
+            "isCV": 1,
+            "name": "-hu"
+        },
+        {
+            "isCV": 1,
+            "name": "hua"
+        },
+        {
+            "isCV": 1,
+            "name": "-hua"
+        },
+        {
+            "isCV": 1,
+            "name": "huai"
+        },
+        {
+            "isCV": 1,
+            "name": "-huai"
+        },
+        {
+            "isCV": 1,
+            "name": "huan"
+        },
+        {
+            "isCV": 1,
+            "name": "-huan"
+        },
+        {
+            "isCV": 1,
+            "name": "huang"
+        },
+        {
+            "isCV": 1,
+            "name": "-huang"
+        },
+        {
+            "isCV": 1,
+            "name": "hui"
+        },
+        {
+            "isCV": 1,
+            "name": "-hui"
+        },
+        {
+            "isCV": 1,
+            "name": "hun"
+        },
+        {
+            "isCV": 1,
+            "name": "-hun"
+        },
+        {
+            "isCV": 1,
+            "name": "huo"
+        },
+        {
+            "isCV": 1,
+            "name": "-huo"
+        },
+        {
+            "isCV": 1,
+            "name": "ji"
+        },
+        {
+            "isCV": 1,
+            "name": "-ji"
+        },
+        {
+            "isCV": 1,
+            "name": "jia"
+        },
+        {
+            "isCV": 1,
+            "name": "-jia"
+        },
+        {
+            "isCV": 1,
+            "name": "jian"
+        },
+        {
+            "isCV": 1,
+            "name": "-jian"
+        },
+        {
+            "isCV": 1,
+            "name": "jiang"
+        },
+        {
+            "isCV": 1,
+            "name": "-jiang"
+        },
+        {
+            "isCV": 1,
+            "name": "jiao"
+        },
+        {
+            "isCV": 1,
+            "name": "-jiao"
+        },
+        {
+            "isCV": 1,
+            "name": "jie"
+        },
+        {
+            "isCV": 1,
+            "name": "-jie"
+        },
+        {
+            "isCV": 1,
+            "name": "jin"
+        },
+        {
+            "isCV": 1,
+            "name": "-jin"
+        },
+        {
+            "isCV": 1,
+            "name": "jing"
+        },
+        {
+            "isCV": 1,
+            "name": "-jing"
+        },
+        {
+            "isCV": 1,
+            "name": "jiong"
+        },
+        {
+            "isCV": 1,
+            "name": "-jiong"
+        },
+        {
+            "isCV": 1,
+            "name": "jiu"
+        },
+        {
+            "isCV": 1,
+            "name": "-jiu"
+        },
+        {
+            "isCV": 1,
+            "name": "ju"
+        },
+        {
+            "isCV": 1,
+            "name": "-ju"
+        },
+        {
+            "isCV": 1,
+            "name": "juan"
+        },
+        {
+            "isCV": 1,
+            "name": "-juan"
+        },
+        {
+            "isCV": 1,
+            "name": "jue"
+        },
+        {
+            "isCV": 1,
+            "name": "-jue"
+        },
+        {
+            "isCV": 1,
+            "name": "jun"
+        },
+        {
+            "isCV": 1,
+            "name": "-jun"
+        },
+        {
+            "isCV": 1,
+            "name": "ka"
+        },
+        {
+            "isCV": 1,
+            "name": "-ka"
+        },
+        {
+            "isCV": 1,
+            "name": "kai"
+        },
+        {
+            "isCV": 1,
+            "name": "-kai"
+        },
+        {
+            "isCV": 1,
+            "name": "kan"
+        },
+        {
+            "isCV": 1,
+            "name": "-kan"
+        },
+        {
+            "isCV": 1,
+            "name": "kang"
+        },
+        {
+            "isCV": 1,
+            "name": "-kang"
+        },
+        {
+            "isCV": 1,
+            "name": "kao"
+        },
+        {
+            "isCV": 1,
+            "name": "-kao"
+        },
+        {
+            "isCV": 1,
+            "name": "ke"
+        },
+        {
+            "isCV": 1,
+            "name": "-ke"
+        },
+        {
+            "isCV": 1,
+            "name": "kei"
+        },
+        {
+            "isCV": 1,
+            "name": "-kei"
+        },
+        {
+            "isCV": 1,
+            "name": "ken"
+        },
+        {
+            "isCV": 1,
+            "name": "-ken"
+        },
+        {
+            "isCV": 1,
+            "name": "keng"
+        },
+        {
+            "isCV": 1,
+            "name": "-keng"
+        },
+        {
+            "isCV": 1,
+            "name": "kong"
+        },
+        {
+            "isCV": 1,
+            "name": "-kong"
+        },
+        {
+            "isCV": 1,
+            "name": "kou"
+        },
+        {
+            "isCV": 1,
+            "name": "-kou"
+        },
+        {
+            "isCV": 1,
+            "name": "ku"
+        },
+        {
+            "isCV": 1,
+            "name": "-ku"
+        },
+        {
+            "isCV": 1,
+            "name": "kua"
+        },
+        {
+            "isCV": 1,
+            "name": "-kua"
+        },
+        {
+            "isCV": 1,
+            "name": "kuai"
+        },
+        {
+            "isCV": 1,
+            "name": "-kuai"
+        },
+        {
+            "isCV": 1,
+            "name": "kuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-kuan"
+        },
+        {
+            "isCV": 1,
+            "name": "kuang"
+        },
+        {
+            "isCV": 1,
+            "name": "-kuang"
+        },
+        {
+            "isCV": 1,
+            "name": "kui"
+        },
+        {
+            "isCV": 1,
+            "name": "-kui"
+        },
+        {
+            "isCV": 1,
+            "name": "kun"
+        },
+        {
+            "isCV": 1,
+            "name": "-kun"
+        },
+        {
+            "isCV": 1,
+            "name": "kuo"
+        },
+        {
+            "isCV": 1,
+            "name": "-kuo"
+        },
+        {
+            "isCV": 1,
+            "name": "la"
+        },
+        {
+            "isCV": 1,
+            "name": "-la"
+        },
+        {
+            "isCV": 1,
+            "name": "lai"
+        },
+        {
+            "isCV": 1,
+            "name": "-lai"
+        },
+        {
+            "isCV": 1,
+            "name": "lan"
+        },
+        {
+            "isCV": 1,
+            "name": "-lan"
+        },
+        {
+            "isCV": 1,
+            "name": "lang"
+        },
+        {
+            "isCV": 1,
+            "name": "-lang"
+        },
+        {
+            "isCV": 1,
+            "name": "lao"
+        },
+        {
+            "isCV": 1,
+            "name": "-lao"
+        },
+        {
+            "isCV": 1,
+            "name": "le"
+        },
+        {
+            "isCV": 1,
+            "name": "-le"
+        },
+        {
+            "isCV": 1,
+            "name": "lei"
+        },
+        {
+            "isCV": 1,
+            "name": "-lei"
+        },
+        {
+            "isCV": 1,
+            "name": "leng"
+        },
+        {
+            "isCV": 1,
+            "name": "-leng"
+        },
+        {
+            "isCV": 1,
+            "name": "li"
+        },
+        {
+            "isCV": 1,
+            "name": "-li"
+        },
+        {
+            "isCV": 1,
+            "name": "lia"
+        },
+        {
+            "isCV": 1,
+            "name": "-lia"
+        },
+        {
+            "isCV": 1,
+            "name": "lian"
+        },
+        {
+            "isCV": 1,
+            "name": "-lian"
+        },
+        {
+            "isCV": 1,
+            "name": "liang"
+        },
+        {
+            "isCV": 1,
+            "name": "-liang"
+        },
+        {
+            "isCV": 1,
+            "name": "liao"
+        },
+        {
+            "isCV": 1,
+            "name": "-liao"
+        },
+        {
+            "isCV": 1,
+            "name": "lie"
+        },
+        {
+            "isCV": 1,
+            "name": "-lie"
+        },
+        {
+            "isCV": 1,
+            "name": "lin"
+        },
+        {
+            "isCV": 1,
+            "name": "-lin"
+        },
+        {
+            "isCV": 1,
+            "name": "ling"
+        },
+        {
+            "isCV": 1,
+            "name": "-ling"
+        },
+        {
+            "isCV": 1,
+            "name": "liu"
+        },
+        {
+            "isCV": 1,
+            "name": "-liu"
+        },
+        {
+            "isCV": 1,
+            "name": "lo"
+        },
+        {
+            "isCV": 1,
+            "name": "-lo"
+        },
+        {
+            "isCV": 1,
+            "name": "long"
+        },
+        {
+            "isCV": 1,
+            "name": "-long"
+        },
+        {
+            "isCV": 1,
+            "name": "lou"
+        },
+        {
+            "isCV": 1,
+            "name": "-lou"
+        },
+        {
+            "isCV": 1,
+            "name": "lu"
+        },
+        {
+            "isCV": 1,
+            "name": "-lu"
+        },
+        {
+            "isCV": 1,
+            "name": "luan"
+        },
+        {
+            "isCV": 1,
+            "name": "-luan"
+        },
+        {
+            "isCV": 1,
+            "name": "lun"
+        },
+        {
+            "isCV": 1,
+            "name": "-lun"
+        },
+        {
+            "isCV": 1,
+            "name": "luo"
+        },
+        {
+            "isCV": 1,
+            "name": "-luo"
+        },
+        {
+            "isCV": 1,
+            "name": "lv"
+        },
+        {
+            "isCV": 1,
+            "name": "-lv"
+        },
+        {
+            "isCV": 1,
+            "name": "lve"
+        },
+        {
+            "isCV": 1,
+            "name": "-lve"
+        },
+        {
+            "isCV": 1,
+            "name": "ma"
+        },
+        {
+            "isCV": 1,
+            "name": "-ma"
+        },
+        {
+            "isCV": 1,
+            "name": "mai"
+        },
+        {
+            "isCV": 1,
+            "name": "-mai"
+        },
+        {
+            "isCV": 1,
+            "name": "man"
+        },
+        {
+            "isCV": 1,
+            "name": "-man"
+        },
+        {
+            "isCV": 1,
+            "name": "mang"
+        },
+        {
+            "isCV": 1,
+            "name": "-mang"
+        },
+        {
+            "isCV": 1,
+            "name": "mao"
+        },
+        {
+            "isCV": 1,
+            "name": "-mao"
+        },
+        {
+            "isCV": 1,
+            "name": "me"
+        },
+        {
+            "isCV": 1,
+            "name": "-me"
+        },
+        {
+            "isCV": 1,
+            "name": "mei"
+        },
+        {
+            "isCV": 1,
+            "name": "-mei"
+        },
+        {
+            "isCV": 1,
+            "name": "men"
+        },
+        {
+            "isCV": 1,
+            "name": "-men"
+        },
+        {
+            "isCV": 1,
+            "name": "meng"
+        },
+        {
+            "isCV": 1,
+            "name": "-meng"
+        },
+        {
+            "isCV": 1,
+            "name": "mi"
+        },
+        {
+            "isCV": 1,
+            "name": "-mi"
+        },
+        {
+            "isCV": 1,
+            "name": "mian"
+        },
+        {
+            "isCV": 1,
+            "name": "-mian"
+        },
+        {
+            "isCV": 1,
+            "name": "miao"
+        },
+        {
+            "isCV": 1,
+            "name": "-miao"
+        },
+        {
+            "isCV": 1,
+            "name": "mie"
+        },
+        {
+            "isCV": 1,
+            "name": "-mie"
+        },
+        {
+            "isCV": 1,
+            "name": "min"
+        },
+        {
+            "isCV": 1,
+            "name": "-min"
+        },
+        {
+            "isCV": 1,
+            "name": "ming"
+        },
+        {
+            "isCV": 1,
+            "name": "-ming"
+        },
+        {
+            "isCV": 1,
+            "name": "miu"
+        },
+        {
+            "isCV": 1,
+            "name": "-miu"
+        },
+        {
+            "isCV": 1,
+            "name": "mo"
+        },
+        {
+            "isCV": 1,
+            "name": "-mo"
+        },
+        {
+            "isCV": 1,
+            "name": "mou"
+        },
+        {
+            "isCV": 1,
+            "name": "-mou"
+        },
+        {
+            "isCV": 1,
+            "name": "mu"
+        },
+        {
+            "isCV": 1,
+            "name": "-mu"
+        },
+        {
+            "isCV": 1,
+            "name": "na"
+        },
+        {
+            "isCV": 1,
+            "name": "-na"
+        },
+        {
+            "isCV": 1,
+            "name": "nai"
+        },
+        {
+            "isCV": 1,
+            "name": "-nai"
+        },
+        {
+            "isCV": 1,
+            "name": "nan"
+        },
+        {
+            "isCV": 1,
+            "name": "-nan"
+        },
+        {
+            "isCV": 1,
+            "name": "nang"
+        },
+        {
+            "isCV": 1,
+            "name": "-nang"
+        },
+        {
+            "isCV": 1,
+            "name": "nao"
+        },
+        {
+            "isCV": 1,
+            "name": "-nao"
+        },
+        {
+            "isCV": 1,
+            "name": "ne"
+        },
+        {
+            "isCV": 1,
+            "name": "-ne"
+        },
+        {
+            "isCV": 1,
+            "name": "nei"
+        },
+        {
+            "isCV": 1,
+            "name": "-nei"
+        },
+        {
+            "isCV": 1,
+            "name": "nen"
+        },
+        {
+            "isCV": 1,
+            "name": "-nen"
+        },
+        {
+            "isCV": 1,
+            "name": "neng"
+        },
+        {
+            "isCV": 1,
+            "name": "-neng"
+        },
+        {
+            "isCV": 1,
+            "name": "ni"
+        },
+        {
+            "isCV": 1,
+            "name": "-ni"
+        },
+        {
+            "isCV": 1,
+            "name": "nian"
+        },
+        {
+            "isCV": 1,
+            "name": "-nian"
+        },
+        {
+            "isCV": 1,
+            "name": "niang"
+        },
+        {
+            "isCV": 1,
+            "name": "-niang"
+        },
+        {
+            "isCV": 1,
+            "name": "niao"
+        },
+        {
+            "isCV": 1,
+            "name": "-niao"
+        },
+        {
+            "isCV": 1,
+            "name": "nie"
+        },
+        {
+            "isCV": 1,
+            "name": "-nie"
+        },
+        {
+            "isCV": 1,
+            "name": "nin"
+        },
+        {
+            "isCV": 1,
+            "name": "-nin"
+        },
+        {
+            "isCV": 1,
+            "name": "ning"
+        },
+        {
+            "isCV": 1,
+            "name": "-ning"
+        },
+        {
+            "isCV": 1,
+            "name": "niu"
+        },
+        {
+            "isCV": 1,
+            "name": "-niu"
+        },
+        {
+            "isCV": 1,
+            "name": "nong"
+        },
+        {
+            "isCV": 1,
+            "name": "-nong"
+        },
+        {
+            "isCV": 1,
+            "name": "nou"
+        },
+        {
+            "isCV": 1,
+            "name": "-nou"
+        },
+        {
+            "isCV": 1,
+            "name": "nu"
+        },
+        {
+            "isCV": 1,
+            "name": "-nu"
+        },
+        {
+            "isCV": 1,
+            "name": "nuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-nuan"
+        },
+        {
+            "isCV": 1,
+            "name": "nuo"
+        },
+        {
+            "isCV": 1,
+            "name": "-nuo"
+        },
+        {
+            "isCV": 1,
+            "name": "nv"
+        },
+        {
+            "isCV": 1,
+            "name": "-nv"
+        },
+        {
+            "isCV": 1,
+            "name": "nve"
+        },
+        {
+            "isCV": 1,
+            "name": "-nve"
+        },
+        {
+            "isCV": 1,
+            "name": "o"
+        },
+        {
+            "isCV": 1,
+            "name": "-o"
+        },
+        {
+            "isCV": 1,
+            "name": "ou"
+        },
+        {
+            "isCV": 1,
+            "name": "-ou"
+        },
+        {
+            "isCV": 1,
+            "name": "pa"
+        },
+        {
+            "isCV": 1,
+            "name": "-pa"
+        },
+        {
+            "isCV": 1,
+            "name": "pai"
+        },
+        {
+            "isCV": 1,
+            "name": "-pai"
+        },
+        {
+            "isCV": 1,
+            "name": "pan"
+        },
+        {
+            "isCV": 1,
+            "name": "-pan"
+        },
+        {
+            "isCV": 1,
+            "name": "pang"
+        },
+        {
+            "isCV": 1,
+            "name": "-pang"
+        },
+        {
+            "isCV": 1,
+            "name": "pao"
+        },
+        {
+            "isCV": 1,
+            "name": "-pao"
+        },
+        {
+            "isCV": 1,
+            "name": "pei"
+        },
+        {
+            "isCV": 1,
+            "name": "-pei"
+        },
+        {
+            "isCV": 1,
+            "name": "pen"
+        },
+        {
+            "isCV": 1,
+            "name": "-pen"
+        },
+        {
+            "isCV": 1,
+            "name": "peng"
+        },
+        {
+            "isCV": 1,
+            "name": "-peng"
+        },
+        {
+            "isCV": 1,
+            "name": "pi"
+        },
+        {
+            "isCV": 1,
+            "name": "-pi"
+        },
+        {
+            "isCV": 1,
+            "name": "pian"
+        },
+        {
+            "isCV": 1,
+            "name": "-pian"
+        },
+        {
+            "isCV": 1,
+            "name": "piao"
+        },
+        {
+            "isCV": 1,
+            "name": "-piao"
+        },
+        {
+            "isCV": 1,
+            "name": "pie"
+        },
+        {
+            "isCV": 1,
+            "name": "-pie"
+        },
+        {
+            "isCV": 1,
+            "name": "pin"
+        },
+        {
+            "isCV": 1,
+            "name": "-pin"
+        },
+        {
+            "isCV": 1,
+            "name": "ping"
+        },
+        {
+            "isCV": 1,
+            "name": "-ping"
+        },
+        {
+            "isCV": 1,
+            "name": "po"
+        },
+        {
+            "isCV": 1,
+            "name": "-po"
+        },
+        {
+            "isCV": 1,
+            "name": "pou"
+        },
+        {
+            "isCV": 1,
+            "name": "-pou"
+        },
+        {
+            "isCV": 1,
+            "name": "pu"
+        },
+        {
+            "isCV": 1,
+            "name": "-pu"
+        },
+        {
+            "isCV": 1,
+            "name": "qi"
+        },
+        {
+            "isCV": 1,
+            "name": "-qi"
+        },
+        {
+            "isCV": 1,
+            "name": "qia"
+        },
+        {
+            "isCV": 1,
+            "name": "-qia"
+        },
+        {
+            "isCV": 1,
+            "name": "qian"
+        },
+        {
+            "isCV": 1,
+            "name": "-qian"
+        },
+        {
+            "isCV": 1,
+            "name": "qiang"
+        },
+        {
+            "isCV": 1,
+            "name": "-qiang"
+        },
+        {
+            "isCV": 1,
+            "name": "qiao"
+        },
+        {
+            "isCV": 1,
+            "name": "-qiao"
+        },
+        {
+            "isCV": 1,
+            "name": "qie"
+        },
+        {
+            "isCV": 1,
+            "name": "-qie"
+        },
+        {
+            "isCV": 1,
+            "name": "qin"
+        },
+        {
+            "isCV": 1,
+            "name": "-qin"
+        },
+        {
+            "isCV": 1,
+            "name": "qing"
+        },
+        {
+            "isCV": 1,
+            "name": "-qing"
+        },
+        {
+            "isCV": 1,
+            "name": "qiong"
+        },
+        {
+            "isCV": 1,
+            "name": "-qiong"
+        },
+        {
+            "isCV": 1,
+            "name": "qiu"
+        },
+        {
+            "isCV": 1,
+            "name": "-qiu"
+        },
+        {
+            "isCV": 1,
+            "name": "qu"
+        },
+        {
+            "isCV": 1,
+            "name": "-qu"
+        },
+        {
+            "isCV": 1,
+            "name": "quan"
+        },
+        {
+            "isCV": 1,
+            "name": "-quan"
+        },
+        {
+            "isCV": 1,
+            "name": "que"
+        },
+        {
+            "isCV": 1,
+            "name": "-que"
+        },
+        {
+            "isCV": 1,
+            "name": "qun"
+        },
+        {
+            "isCV": 1,
+            "name": "-qun"
+        },
+        {
+            "isCV": 1,
+            "name": "ran"
+        },
+        {
+            "isCV": 1,
+            "name": "-ran"
+        },
+        {
+            "isCV": 1,
+            "name": "rang"
+        },
+        {
+            "isCV": 1,
+            "name": "-rang"
+        },
+        {
+            "isCV": 1,
+            "name": "rao"
+        },
+        {
+            "isCV": 1,
+            "name": "-rao"
+        },
+        {
+            "isCV": 1,
+            "name": "re"
+        },
+        {
+            "isCV": 1,
+            "name": "-re"
+        },
+        {
+            "isCV": 1,
+            "name": "ren"
+        },
+        {
+            "isCV": 1,
+            "name": "-ren"
+        },
+        {
+            "isCV": 1,
+            "name": "reng"
+        },
+        {
+            "isCV": 1,
+            "name": "-reng"
+        },
+        {
+            "isCV": 1,
+            "name": "ri"
+        },
+        {
+            "isCV": 1,
+            "name": "-ri"
+        },
+        {
+            "isCV": 1,
+            "name": "rong"
+        },
+        {
+            "isCV": 1,
+            "name": "-rong"
+        },
+        {
+            "isCV": 1,
+            "name": "rou"
+        },
+        {
+            "isCV": 1,
+            "name": "-rou"
+        },
+        {
+            "isCV": 1,
+            "name": "ru"
+        },
+        {
+            "isCV": 1,
+            "name": "-ru"
+        },
+        {
+            "isCV": 1,
+            "name": "ruan"
+        },
+        {
+            "isCV": 1,
+            "name": "-ruan"
+        },
+        {
+            "isCV": 1,
+            "name": "rui"
+        },
+        {
+            "isCV": 1,
+            "name": "-rui"
+        },
+        {
+            "isCV": 1,
+            "name": "run"
+        },
+        {
+            "isCV": 1,
+            "name": "-run"
+        },
+        {
+            "isCV": 1,
+            "name": "ruo"
+        },
+        {
+            "isCV": 1,
+            "name": "-ruo"
+        },
+        {
+            "isCV": 1,
+            "name": "sa"
+        },
+        {
+            "isCV": 1,
+            "name": "-sa"
+        },
+        {
+            "isCV": 1,
+            "name": "sai"
+        },
+        {
+            "isCV": 1,
+            "name": "-sai"
+        },
+        {
+            "isCV": 1,
+            "name": "san"
+        },
+        {
+            "isCV": 1,
+            "name": "-san"
+        },
+        {
+            "isCV": 1,
+            "name": "sang"
+        },
+        {
+            "isCV": 1,
+            "name": "-sang"
+        },
+        {
+            "isCV": 1,
+            "name": "sao"
+        },
+        {
+            "isCV": 1,
+            "name": "-sao"
+        },
+        {
+            "isCV": 1,
+            "name": "se"
+        },
+        {
+            "isCV": 1,
+            "name": "-se"
+        },
+        {
+            "isCV": 1,
+            "name": "sen"
+        },
+        {
+            "isCV": 1,
+            "name": "-sen"
+        },
+        {
+            "isCV": 1,
+            "name": "seng"
+        },
+        {
+            "isCV": 1,
+            "name": "-seng"
+        },
+        {
+            "isCV": 1,
+            "name": "sha"
+        },
+        {
+            "isCV": 1,
+            "name": "-sha"
+        },
+        {
+            "isCV": 1,
+            "name": "shai"
+        },
+        {
+            "isCV": 1,
+            "name": "-shai"
+        },
+        {
+            "isCV": 1,
+            "name": "shan"
+        },
+        {
+            "isCV": 1,
+            "name": "-shan"
+        },
+        {
+            "isCV": 1,
+            "name": "shang"
+        },
+        {
+            "isCV": 1,
+            "name": "-shang"
+        },
+        {
+            "isCV": 1,
+            "name": "shao"
+        },
+        {
+            "isCV": 1,
+            "name": "-shao"
+        },
+        {
+            "isCV": 1,
+            "name": "she"
+        },
+        {
+            "isCV": 1,
+            "name": "-she"
+        },
+        {
+            "isCV": 1,
+            "name": "shei"
+        },
+        {
+            "isCV": 1,
+            "name": "-shei"
+        },
+        {
+            "isCV": 1,
+            "name": "shen"
+        },
+        {
+            "isCV": 1,
+            "name": "-shen"
+        },
+        {
+            "isCV": 1,
+            "name": "sheng"
+        },
+        {
+            "isCV": 1,
+            "name": "-sheng"
+        },
+        {
+            "isCV": 1,
+            "name": "shi"
+        },
+        {
+            "isCV": 1,
+            "name": "-shi"
+        },
+        {
+            "isCV": 1,
+            "name": "shou"
+        },
+        {
+            "isCV": 1,
+            "name": "-shou"
+        },
+        {
+            "isCV": 1,
+            "name": "shu"
+        },
+        {
+            "isCV": 1,
+            "name": "-shu"
+        },
+        {
+            "isCV": 1,
+            "name": "shua"
+        },
+        {
+            "isCV": 1,
+            "name": "-shua"
+        },
+        {
+            "isCV": 1,
+            "name": "shuai"
+        },
+        {
+            "isCV": 1,
+            "name": "-shuai"
+        },
+        {
+            "isCV": 1,
+            "name": "shuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-shuan"
+        },
+        {
+            "isCV": 1,
+            "name": "shuang"
+        },
+        {
+            "isCV": 1,
+            "name": "-shuang"
+        },
+        {
+            "isCV": 1,
+            "name": "shui"
+        },
+        {
+            "isCV": 1,
+            "name": "-shui"
+        },
+        {
+            "isCV": 1,
+            "name": "shun"
+        },
+        {
+            "isCV": 1,
+            "name": "-shun"
+        },
+        {
+            "isCV": 1,
+            "name": "shuo"
+        },
+        {
+            "isCV": 1,
+            "name": "-shuo"
+        },
+        {
+            "isCV": 1,
+            "name": "si"
+        },
+        {
+            "isCV": 1,
+            "name": "-si"
+        },
+        {
+            "isCV": 1,
+            "name": "song"
+        },
+        {
+            "isCV": 1,
+            "name": "-song"
+        },
+        {
+            "isCV": 1,
+            "name": "sou"
+        },
+        {
+            "isCV": 1,
+            "name": "-sou"
+        },
+        {
+            "isCV": 1,
+            "name": "su"
+        },
+        {
+            "isCV": 1,
+            "name": "-su"
+        },
+        {
+            "isCV": 1,
+            "name": "suan"
+        },
+        {
+            "isCV": 1,
+            "name": "-suan"
+        },
+        {
+            "isCV": 1,
+            "name": "sui"
+        },
+        {
+            "isCV": 1,
+            "name": "-sui"
+        },
+        {
+            "isCV": 1,
+            "name": "sun"
+        },
+        {
+            "isCV": 1,
+            "name": "-sun"
+        },
+        {
+            "isCV": 1,
+            "name": "suo"
+        },
+        {
+            "isCV": 1,
+            "name": "-suo"
+        },
+        {
+            "isCV": 1,
+            "name": "ta"
+        },
+        {
+            "isCV": 1,
+            "name": "-ta"
+        },
+        {
+            "isCV": 1,
+            "name": "tai"
+        },
+        {
+            "isCV": 1,
+            "name": "-tai"
+        },
+        {
+            "isCV": 1,
+            "name": "tan"
+        },
+        {
+            "isCV": 1,
+            "name": "-tan"
+        },
+        {
+            "isCV": 1,
+            "name": "tang"
+        },
+        {
+            "isCV": 1,
+            "name": "-tang"
+        },
+        {
+            "isCV": 1,
+            "name": "tao"
+        },
+        {
+            "isCV": 1,
+            "name": "-tao"
+        },
+        {
+            "isCV": 1,
+            "name": "te"
+        },
+        {
+            "isCV": 1,
+            "name": "-te"
+        },
+        {
+            "isCV": 1,
+            "name": "teng"
+        },
+        {
+            "isCV": 1,
+            "name": "-teng"
+        },
+        {
+            "isCV": 1,
+            "name": "ti"
+        },
+        {
+            "isCV": 1,
+            "name": "-ti"
+        },
+        {
+            "isCV": 1,
+            "name": "tian"
+        },
+        {
+            "isCV": 1,
+            "name": "-tian"
+        },
+        {
+            "isCV": 1,
+            "name": "tiao"
+        },
+        {
+            "isCV": 1,
+            "name": "-tiao"
+        },
+        {
+            "isCV": 1,
+            "name": "tie"
+        },
+        {
+            "isCV": 1,
+            "name": "-tie"
+        },
+        {
+            "isCV": 1,
+            "name": "ting"
+        },
+        {
+            "isCV": 1,
+            "name": "-ting"
+        },
+        {
+            "isCV": 1,
+            "name": "tong"
+        },
+        {
+            "isCV": 1,
+            "name": "-tong"
+        },
+        {
+            "isCV": 1,
+            "name": "tou"
+        },
+        {
+            "isCV": 1,
+            "name": "-tou"
+        },
+        {
+            "isCV": 1,
+            "name": "tu"
+        },
+        {
+            "isCV": 1,
+            "name": "-tu"
+        },
+        {
+            "isCV": 1,
+            "name": "tuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-tuan"
+        },
+        {
+            "isCV": 1,
+            "name": "tui"
+        },
+        {
+            "isCV": 1,
+            "name": "-tui"
+        },
+        {
+            "isCV": 1,
+            "name": "tun"
+        },
+        {
+            "isCV": 1,
+            "name": "-tun"
+        },
+        {
+            "isCV": 1,
+            "name": "tuo"
+        },
+        {
+            "isCV": 1,
+            "name": "-tuo"
+        },
+        {
+            "isCV": 1,
+            "name": "wa"
+        },
+        {
+            "isCV": 1,
+            "name": "-wa"
+        },
+        {
+            "isCV": 1,
+            "name": "wai"
+        },
+        {
+            "isCV": 1,
+            "name": "-wai"
+        },
+        {
+            "isCV": 1,
+            "name": "wan"
+        },
+        {
+            "isCV": 1,
+            "name": "-wan"
+        },
+        {
+            "isCV": 1,
+            "name": "wang"
+        },
+        {
+            "isCV": 1,
+            "name": "-wang"
+        },
+        {
+            "isCV": 1,
+            "name": "wei"
+        },
+        {
+            "isCV": 1,
+            "name": "-wei"
+        },
+        {
+            "isCV": 1,
+            "name": "wen"
+        },
+        {
+            "isCV": 1,
+            "name": "-wen"
+        },
+        {
+            "isCV": 1,
+            "name": "weng"
+        },
+        {
+            "isCV": 1,
+            "name": "-weng"
+        },
+        {
+            "isCV": 1,
+            "name": "wo"
+        },
+        {
+            "isCV": 1,
+            "name": "-wo"
+        },
+        {
+            "isCV": 1,
+            "name": "wu"
+        },
+        {
+            "isCV": 1,
+            "name": "-wu"
+        },
+        {
+            "isCV": 1,
+            "name": "xi"
+        },
+        {
+            "isCV": 1,
+            "name": "-xi"
+        },
+        {
+            "isCV": 1,
+            "name": "xia"
+        },
+        {
+            "isCV": 1,
+            "name": "-xia"
+        },
+        {
+            "isCV": 1,
+            "name": "xian"
+        },
+        {
+            "isCV": 1,
+            "name": "-xian"
+        },
+        {
+            "isCV": 1,
+            "name": "xiang"
+        },
+        {
+            "isCV": 1,
+            "name": "-xiang"
+        },
+        {
+            "isCV": 1,
+            "name": "xiao"
+        },
+        {
+            "isCV": 1,
+            "name": "-xiao"
+        },
+        {
+            "isCV": 1,
+            "name": "xie"
+        },
+        {
+            "isCV": 1,
+            "name": "-xie"
+        },
+        {
+            "isCV": 1,
+            "name": "xin"
+        },
+        {
+            "isCV": 1,
+            "name": "-xin"
+        },
+        {
+            "isCV": 1,
+            "name": "xing"
+        },
+        {
+            "isCV": 1,
+            "name": "-xing"
+        },
+        {
+            "isCV": 1,
+            "name": "xiong"
+        },
+        {
+            "isCV": 1,
+            "name": "-xiong"
+        },
+        {
+            "isCV": 1,
+            "name": "xiu"
+        },
+        {
+            "isCV": 1,
+            "name": "-xiu"
+        },
+        {
+            "isCV": 1,
+            "name": "xu"
+        },
+        {
+            "isCV": 1,
+            "name": "-xu"
+        },
+        {
+            "isCV": 1,
+            "name": "xuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-xuan"
+        },
+        {
+            "isCV": 1,
+            "name": "xue"
+        },
+        {
+            "isCV": 1,
+            "name": "-xue"
+        },
+        {
+            "isCV": 1,
+            "name": "xun"
+        },
+        {
+            "isCV": 1,
+            "name": "-xun"
+        },
+        {
+            "isCV": 1,
+            "name": "ya"
+        },
+        {
+            "isCV": 1,
+            "name": "-ya"
+        },
+        {
+            "isCV": 1,
+            "name": "yan"
+        },
+        {
+            "isCV": 1,
+            "name": "-yan"
+        },
+        {
+            "isCV": 1,
+            "name": "yang"
+        },
+        {
+            "isCV": 1,
+            "name": "-yang"
+        },
+        {
+            "isCV": 1,
+            "name": "yao"
+        },
+        {
+            "isCV": 1,
+            "name": "-yao"
+        },
+        {
+            "isCV": 1,
+            "name": "ye"
+        },
+        {
+            "isCV": 1,
+            "name": "-ye"
+        },
+        {
+            "isCV": 1,
+            "name": "yi"
+        },
+        {
+            "isCV": 1,
+            "name": "-yi"
+        },
+        {
+            "isCV": 1,
+            "name": "yin"
+        },
+        {
+            "isCV": 1,
+            "name": "-yin"
+        },
+        {
+            "isCV": 1,
+            "name": "ying"
+        },
+        {
+            "isCV": 1,
+            "name": "-ying"
+        },
+        {
+            "isCV": 1,
+            "name": "yo"
+        },
+        {
+            "isCV": 1,
+            "name": "-yo"
+        },
+        {
+            "isCV": 1,
+            "name": "yong"
+        },
+        {
+            "isCV": 1,
+            "name": "-yong"
+        },
+        {
+            "isCV": 1,
+            "name": "you"
+        },
+        {
+            "isCV": 1,
+            "name": "-you"
+        },
+        {
+            "isCV": 1,
+            "name": "yu"
+        },
+        {
+            "isCV": 1,
+            "name": "-yu"
+        },
+        {
+            "isCV": 1,
+            "name": "yuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-yuan"
+        },
+        {
+            "isCV": 1,
+            "name": "yue"
+        },
+        {
+            "isCV": 1,
+            "name": "-yue"
+        },
+        {
+            "isCV": 1,
+            "name": "yun"
+        },
+        {
+            "isCV": 1,
+            "name": "-yun"
+        },
+        {
+            "isCV": 1,
+            "name": "za"
+        },
+        {
+            "isCV": 1,
+            "name": "-za"
+        },
+        {
+            "isCV": 1,
+            "name": "zai"
+        },
+        {
+            "isCV": 1,
+            "name": "-zai"
+        },
+        {
+            "isCV": 1,
+            "name": "zan"
+        },
+        {
+            "isCV": 1,
+            "name": "-zan"
+        },
+        {
+            "isCV": 1,
+            "name": "zang"
+        },
+        {
+            "isCV": 1,
+            "name": "-zang"
+        },
+        {
+            "isCV": 1,
+            "name": "zao"
+        },
+        {
+            "isCV": 1,
+            "name": "-zao"
+        },
+        {
+            "isCV": 1,
+            "name": "ze"
+        },
+        {
+            "isCV": 1,
+            "name": "-ze"
+        },
+        {
+            "isCV": 1,
+            "name": "zei"
+        },
+        {
+            "isCV": 1,
+            "name": "-zei"
+        },
+        {
+            "isCV": 1,
+            "name": "zen"
+        },
+        {
+            "isCV": 1,
+            "name": "-zen"
+        },
+        {
+            "isCV": 1,
+            "name": "zeng"
+        },
+        {
+            "isCV": 1,
+            "name": "-zeng"
+        },
+        {
+            "isCV": 1,
+            "name": "zha"
+        },
+        {
+            "isCV": 1,
+            "name": "-zha"
+        },
+        {
+            "isCV": 1,
+            "name": "zhai"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhai"
+        },
+        {
+            "isCV": 1,
+            "name": "zhan"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhan"
+        },
+        {
+            "isCV": 1,
+            "name": "zhang"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhang"
+        },
+        {
+            "isCV": 1,
+            "name": "zhao"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhao"
+        },
+        {
+            "isCV": 1,
+            "name": "zhe"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhe"
+        },
+        {
+            "isCV": 1,
+            "name": "zhei"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhei"
+        },
+        {
+            "isCV": 1,
+            "name": "zhen"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhen"
+        },
+        {
+            "isCV": 1,
+            "name": "zheng"
+        },
+        {
+            "isCV": 1,
+            "name": "-zheng"
+        },
+        {
+            "isCV": 1,
+            "name": "zhi"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhi"
+        },
+        {
+            "isCV": 1,
+            "name": "zhong"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhong"
+        },
+        {
+            "isCV": 1,
+            "name": "zhou"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhou"
+        },
+        {
+            "isCV": 1,
+            "name": "zhu"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhu"
+        },
+        {
+            "isCV": 1,
+            "name": "zhua"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhua"
+        },
+        {
+            "isCV": 1,
+            "name": "zhuai"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhuai"
+        },
+        {
+            "isCV": 1,
+            "name": "zhuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhuan"
+        },
+        {
+            "isCV": 1,
+            "name": "zhuang"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhuang"
+        },
+        {
+            "isCV": 1,
+            "name": "zhui"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhui"
+        },
+        {
+            "isCV": 1,
+            "name": "zhun"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhun"
+        },
+        {
+            "isCV": 1,
+            "name": "zhuo"
+        },
+        {
+            "isCV": 1,
+            "name": "-zhuo"
+        },
+        {
+            "isCV": 1,
+            "name": "zi"
+        },
+        {
+            "isCV": 1,
+            "name": "-zi"
+        },
+        {
+            "isCV": 1,
+            "name": "zong"
+        },
+        {
+            "isCV": 1,
+            "name": "-zong"
+        },
+        {
+            "isCV": 1,
+            "name": "zou"
+        },
+        {
+            "isCV": 1,
+            "name": "-zou"
+        },
+        {
+            "isCV": 1,
+            "name": "zu"
+        },
+        {
+            "isCV": 1,
+            "name": "-zu"
+        },
+        {
+            "isCV": 1,
+            "name": "zuan"
+        },
+        {
+            "isCV": 1,
+            "name": "-zuan"
+        },
+        {
+            "isCV": 1,
+            "name": "zui"
+        },
+        {
+            "isCV": 1,
+            "name": "-zui"
+        },
+        {
+            "isCV": 1,
+            "name": "zun"
+        },
+        {
+            "isCV": 1,
+            "name": "-zun"
+        },
+        {
+            "isCV": 1,
+            "name": "zuo"
+        },
+        {
+            "isCV": 1,
+            "name": "-zuo"
+        },
+        {
+            "isCV": 1,
+            "name": "tei"
+        },
+        {
+            "isCV": 1,
+            "name": "-tei"
+        },
+        {
+            "isCV": 1,
+            "name": "sei"
+        },
+        {
+            "isCV": 1,
+            "name": "-sei"
+        },
+        {
+            "isCV": 0,
+            "name": "a_!"
+        },
+        {
+            "isCV": 0,
+            "name": "a_a"
+        },
+        {
+            "isCV": 0,
+            "name": "a_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "a_an"
+        },
+        {
+            "isCV": 0,
+            "name": "a_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "a_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "a_b"
+        },
+        {
+            "isCV": 0,
+            "name": "a_c"
+        },
+        {
+            "isCV": 0,
+            "name": "a_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "a_d"
+        },
+        {
+            "isCV": 0,
+            "name": "a_e"
+        },
+        {
+            "isCV": 0,
+            "name": "a_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "a_en"
+        },
+        {
+            "isCV": 0,
+            "name": "a_er"
+        },
+        {
+            "isCV": 0,
+            "name": "a_f"
+        },
+        {
+            "isCV": 0,
+            "name": "a_g"
+        },
+        {
+            "isCV": 0,
+            "name": "a_h"
+        },
+        {
+            "isCV": 0,
+            "name": "a_j"
+        },
+        {
+            "isCV": 0,
+            "name": "a_k"
+        },
+        {
+            "isCV": 0,
+            "name": "a_l"
+        },
+        {
+            "isCV": 0,
+            "name": "a_m"
+        },
+        {
+            "isCV": 0,
+            "name": "a_n"
+        },
+        {
+            "isCV": 0,
+            "name": "a_o"
+        },
+        {
+            "isCV": 0,
+            "name": "a_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "a_p"
+        },
+        {
+            "isCV": 0,
+            "name": "a_q"
+        },
+        {
+            "isCV": 0,
+            "name": "a_r"
+        },
+        {
+            "isCV": 0,
+            "name": "a_s"
+        },
+        {
+            "isCV": 0,
+            "name": "a_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "a_t"
+        },
+        {
+            "isCV": 0,
+            "name": "a_w"
+        },
+        {
+            "isCV": 0,
+            "name": "a_x"
+        },
+        {
+            "isCV": 0,
+            "name": "a_y"
+        },
+        {
+            "isCV": 0,
+            "name": "a_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "a_z"
+        },
+        {
+            "isCV": 0,
+            "name": "a_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "a_-"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_!"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_a"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_an"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_b"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_c"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_d"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_e"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_en"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_er"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_f"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_g"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_h"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_j"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_k"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_l"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_m"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_n"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_o"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_p"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_q"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_r"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_s"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_t"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_w"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_x"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_y"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_z"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "ai_-"
+        },
+        {
+            "isCV": 0,
+            "name": "an_!"
+        },
+        {
+            "isCV": 0,
+            "name": "an_a"
+        },
+        {
+            "isCV": 0,
+            "name": "an_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "an_an"
+        },
+        {
+            "isCV": 0,
+            "name": "an_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "an_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "an_b"
+        },
+        {
+            "isCV": 0,
+            "name": "an_c"
+        },
+        {
+            "isCV": 0,
+            "name": "an_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "an_d"
+        },
+        {
+            "isCV": 0,
+            "name": "an_e"
+        },
+        {
+            "isCV": 0,
+            "name": "an_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "an_en"
+        },
+        {
+            "isCV": 0,
+            "name": "an_er"
+        },
+        {
+            "isCV": 0,
+            "name": "an_f"
+        },
+        {
+            "isCV": 0,
+            "name": "an_g"
+        },
+        {
+            "isCV": 0,
+            "name": "an_h"
+        },
+        {
+            "isCV": 0,
+            "name": "an_j"
+        },
+        {
+            "isCV": 0,
+            "name": "an_k"
+        },
+        {
+            "isCV": 0,
+            "name": "an_l"
+        },
+        {
+            "isCV": 0,
+            "name": "an_m"
+        },
+        {
+            "isCV": 0,
+            "name": "an_n"
+        },
+        {
+            "isCV": 0,
+            "name": "an_o"
+        },
+        {
+            "isCV": 0,
+            "name": "an_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "an_p"
+        },
+        {
+            "isCV": 0,
+            "name": "an_q"
+        },
+        {
+            "isCV": 0,
+            "name": "an_r"
+        },
+        {
+            "isCV": 0,
+            "name": "an_s"
+        },
+        {
+            "isCV": 0,
+            "name": "an_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "an_t"
+        },
+        {
+            "isCV": 0,
+            "name": "an_w"
+        },
+        {
+            "isCV": 0,
+            "name": "an_x"
+        },
+        {
+            "isCV": 0,
+            "name": "an_y"
+        },
+        {
+            "isCV": 0,
+            "name": "an_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "an_z"
+        },
+        {
+            "isCV": 0,
+            "name": "an_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "an_-"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_!"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_a"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_an"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_b"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_c"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_d"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_e"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_en"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_er"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_f"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_g"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_h"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_j"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_k"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_l"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_m"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_n"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_o"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_p"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_q"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_r"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_s"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_t"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_w"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_x"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_y"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_z"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "ang_-"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_!"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_a"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_an"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_b"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_c"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_d"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_e"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_en"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_er"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_f"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_g"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_h"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_j"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_k"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_l"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_m"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_n"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_o"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_p"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_q"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_r"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_s"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_t"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_w"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_x"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_y"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_z"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "ao_-"
+        },
+        {
+            "isCV": 0,
+            "name": "e_!"
+        },
+        {
+            "isCV": 0,
+            "name": "e_a"
+        },
+        {
+            "isCV": 0,
+            "name": "e_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "e_an"
+        },
+        {
+            "isCV": 0,
+            "name": "e_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "e_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "e_b"
+        },
+        {
+            "isCV": 0,
+            "name": "e_c"
+        },
+        {
+            "isCV": 0,
+            "name": "e_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "e_d"
+        },
+        {
+            "isCV": 0,
+            "name": "e_e"
+        },
+        {
+            "isCV": 0,
+            "name": "e_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "e_en"
+        },
+        {
+            "isCV": 0,
+            "name": "e_er"
+        },
+        {
+            "isCV": 0,
+            "name": "e_f"
+        },
+        {
+            "isCV": 0,
+            "name": "e_g"
+        },
+        {
+            "isCV": 0,
+            "name": "e_h"
+        },
+        {
+            "isCV": 0,
+            "name": "e_j"
+        },
+        {
+            "isCV": 0,
+            "name": "e_k"
+        },
+        {
+            "isCV": 0,
+            "name": "e_l"
+        },
+        {
+            "isCV": 0,
+            "name": "e_m"
+        },
+        {
+            "isCV": 0,
+            "name": "e_n"
+        },
+        {
+            "isCV": 0,
+            "name": "e_o"
+        },
+        {
+            "isCV": 0,
+            "name": "e_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "e_p"
+        },
+        {
+            "isCV": 0,
+            "name": "e_q"
+        },
+        {
+            "isCV": 0,
+            "name": "e_r"
+        },
+        {
+            "isCV": 0,
+            "name": "e_s"
+        },
+        {
+            "isCV": 0,
+            "name": "e_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "e_t"
+        },
+        {
+            "isCV": 0,
+            "name": "e_w"
+        },
+        {
+            "isCV": 0,
+            "name": "e_x"
+        },
+        {
+            "isCV": 0,
+            "name": "e_y"
+        },
+        {
+            "isCV": 0,
+            "name": "e_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "e_z"
+        },
+        {
+            "isCV": 0,
+            "name": "e_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "e_-"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_!"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_a"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_an"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_b"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_c"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_d"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_e"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_en"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_er"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_f"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_g"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_h"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_j"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_k"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_l"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_m"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_n"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_o"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_p"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_q"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_r"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_s"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_t"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_w"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_x"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_y"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_z"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "ei_-"
+        },
+        {
+            "isCV": 0,
+            "name": "en_!"
+        },
+        {
+            "isCV": 0,
+            "name": "en_a"
+        },
+        {
+            "isCV": 0,
+            "name": "en_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "en_an"
+        },
+        {
+            "isCV": 0,
+            "name": "en_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "en_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "en_b"
+        },
+        {
+            "isCV": 0,
+            "name": "en_c"
+        },
+        {
+            "isCV": 0,
+            "name": "en_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "en_d"
+        },
+        {
+            "isCV": 0,
+            "name": "en_e"
+        },
+        {
+            "isCV": 0,
+            "name": "en_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "en_en"
+        },
+        {
+            "isCV": 0,
+            "name": "en_er"
+        },
+        {
+            "isCV": 0,
+            "name": "en_f"
+        },
+        {
+            "isCV": 0,
+            "name": "en_g"
+        },
+        {
+            "isCV": 0,
+            "name": "en_h"
+        },
+        {
+            "isCV": 0,
+            "name": "en_j"
+        },
+        {
+            "isCV": 0,
+            "name": "en_k"
+        },
+        {
+            "isCV": 0,
+            "name": "en_l"
+        },
+        {
+            "isCV": 0,
+            "name": "en_m"
+        },
+        {
+            "isCV": 0,
+            "name": "en_n"
+        },
+        {
+            "isCV": 0,
+            "name": "en_o"
+        },
+        {
+            "isCV": 0,
+            "name": "en_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "en_p"
+        },
+        {
+            "isCV": 0,
+            "name": "en_q"
+        },
+        {
+            "isCV": 0,
+            "name": "en_r"
+        },
+        {
+            "isCV": 0,
+            "name": "en_s"
+        },
+        {
+            "isCV": 0,
+            "name": "en_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "en_t"
+        },
+        {
+            "isCV": 0,
+            "name": "en_w"
+        },
+        {
+            "isCV": 0,
+            "name": "en_x"
+        },
+        {
+            "isCV": 0,
+            "name": "en_y"
+        },
+        {
+            "isCV": 0,
+            "name": "en_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "en_z"
+        },
+        {
+            "isCV": 0,
+            "name": "en_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "en_-"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_!"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_a"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_an"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_b"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_c"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_d"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_e"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_en"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_er"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_f"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_g"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_h"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_j"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_k"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_l"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_m"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_n"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_o"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_p"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_q"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_r"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_s"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_t"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_w"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_x"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_y"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_z"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "eng_-"
+        },
+        {
+            "isCV": 0,
+            "name": "er_!"
+        },
+        {
+            "isCV": 0,
+            "name": "er_a"
+        },
+        {
+            "isCV": 0,
+            "name": "er_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "er_an"
+        },
+        {
+            "isCV": 0,
+            "name": "er_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "er_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "er_b"
+        },
+        {
+            "isCV": 0,
+            "name": "er_c"
+        },
+        {
+            "isCV": 0,
+            "name": "er_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "er_d"
+        },
+        {
+            "isCV": 0,
+            "name": "er_e"
+        },
+        {
+            "isCV": 0,
+            "name": "er_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "er_en"
+        },
+        {
+            "isCV": 0,
+            "name": "er_er"
+        },
+        {
+            "isCV": 0,
+            "name": "er_f"
+        },
+        {
+            "isCV": 0,
+            "name": "er_g"
+        },
+        {
+            "isCV": 0,
+            "name": "er_h"
+        },
+        {
+            "isCV": 0,
+            "name": "er_j"
+        },
+        {
+            "isCV": 0,
+            "name": "er_k"
+        },
+        {
+            "isCV": 0,
+            "name": "er_l"
+        },
+        {
+            "isCV": 0,
+            "name": "er_m"
+        },
+        {
+            "isCV": 0,
+            "name": "er_n"
+        },
+        {
+            "isCV": 0,
+            "name": "er_o"
+        },
+        {
+            "isCV": 0,
+            "name": "er_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "er_p"
+        },
+        {
+            "isCV": 0,
+            "name": "er_q"
+        },
+        {
+            "isCV": 0,
+            "name": "er_r"
+        },
+        {
+            "isCV": 0,
+            "name": "er_s"
+        },
+        {
+            "isCV": 0,
+            "name": "er_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "er_t"
+        },
+        {
+            "isCV": 0,
+            "name": "er_w"
+        },
+        {
+            "isCV": 0,
+            "name": "er_x"
+        },
+        {
+            "isCV": 0,
+            "name": "er_y"
+        },
+        {
+            "isCV": 0,
+            "name": "er_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "er_z"
+        },
+        {
+            "isCV": 0,
+            "name": "er_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "er_-"
+        },
+        {
+            "isCV": 0,
+            "name": "i_!"
+        },
+        {
+            "isCV": 0,
+            "name": "i_a"
+        },
+        {
+            "isCV": 0,
+            "name": "i_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "i_an"
+        },
+        {
+            "isCV": 0,
+            "name": "i_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "i_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "i_b"
+        },
+        {
+            "isCV": 0,
+            "name": "i_c"
+        },
+        {
+            "isCV": 0,
+            "name": "i_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "i_d"
+        },
+        {
+            "isCV": 0,
+            "name": "i_e"
+        },
+        {
+            "isCV": 0,
+            "name": "i_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "i_en"
+        },
+        {
+            "isCV": 0,
+            "name": "i_er"
+        },
+        {
+            "isCV": 0,
+            "name": "i_f"
+        },
+        {
+            "isCV": 0,
+            "name": "i_g"
+        },
+        {
+            "isCV": 0,
+            "name": "i_h"
+        },
+        {
+            "isCV": 0,
+            "name": "i_j"
+        },
+        {
+            "isCV": 0,
+            "name": "i_k"
+        },
+        {
+            "isCV": 0,
+            "name": "i_l"
+        },
+        {
+            "isCV": 0,
+            "name": "i_m"
+        },
+        {
+            "isCV": 0,
+            "name": "i_n"
+        },
+        {
+            "isCV": 0,
+            "name": "i_o"
+        },
+        {
+            "isCV": 0,
+            "name": "i_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "i_p"
+        },
+        {
+            "isCV": 0,
+            "name": "i_q"
+        },
+        {
+            "isCV": 0,
+            "name": "i_r"
+        },
+        {
+            "isCV": 0,
+            "name": "i_s"
+        },
+        {
+            "isCV": 0,
+            "name": "i_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "i_t"
+        },
+        {
+            "isCV": 0,
+            "name": "i_w"
+        },
+        {
+            "isCV": 0,
+            "name": "i_x"
+        },
+        {
+            "isCV": 0,
+            "name": "i_y"
+        },
+        {
+            "isCV": 0,
+            "name": "i_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "i_z"
+        },
+        {
+            "isCV": 0,
+            "name": "i_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "i_-"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_!"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_a"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_an"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_b"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_c"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_d"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_e"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_en"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_er"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_f"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_g"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_h"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_j"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_k"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_l"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_m"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_n"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_o"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_p"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_q"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_r"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_s"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_t"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_w"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_x"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_y"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_z"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "ing_-"
+        },
+        {
+            "isCV": 0,
+            "name": "in_!"
+        },
+        {
+            "isCV": 0,
+            "name": "in_a"
+        },
+        {
+            "isCV": 0,
+            "name": "in_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "in_an"
+        },
+        {
+            "isCV": 0,
+            "name": "in_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "in_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "in_b"
+        },
+        {
+            "isCV": 0,
+            "name": "in_c"
+        },
+        {
+            "isCV": 0,
+            "name": "in_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "in_d"
+        },
+        {
+            "isCV": 0,
+            "name": "in_e"
+        },
+        {
+            "isCV": 0,
+            "name": "in_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "in_en"
+        },
+        {
+            "isCV": 0,
+            "name": "in_er"
+        },
+        {
+            "isCV": 0,
+            "name": "in_f"
+        },
+        {
+            "isCV": 0,
+            "name": "in_g"
+        },
+        {
+            "isCV": 0,
+            "name": "in_h"
+        },
+        {
+            "isCV": 0,
+            "name": "in_j"
+        },
+        {
+            "isCV": 0,
+            "name": "in_k"
+        },
+        {
+            "isCV": 0,
+            "name": "in_l"
+        },
+        {
+            "isCV": 0,
+            "name": "in_m"
+        },
+        {
+            "isCV": 0,
+            "name": "in_n"
+        },
+        {
+            "isCV": 0,
+            "name": "in_o"
+        },
+        {
+            "isCV": 0,
+            "name": "in_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "in_p"
+        },
+        {
+            "isCV": 0,
+            "name": "in_q"
+        },
+        {
+            "isCV": 0,
+            "name": "in_r"
+        },
+        {
+            "isCV": 0,
+            "name": "in_s"
+        },
+        {
+            "isCV": 0,
+            "name": "in_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "in_t"
+        },
+        {
+            "isCV": 0,
+            "name": "in_w"
+        },
+        {
+            "isCV": 0,
+            "name": "in_x"
+        },
+        {
+            "isCV": 0,
+            "name": "in_y"
+        },
+        {
+            "isCV": 0,
+            "name": "in_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "in_z"
+        },
+        {
+            "isCV": 0,
+            "name": "in_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "in_-"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_!"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_a"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_an"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_b"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_c"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_d"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_e"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_en"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_er"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_f"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_g"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_h"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_j"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_k"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_l"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_m"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_n"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_o"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_p"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_q"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_r"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_s"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_t"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_w"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_x"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_y"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_z"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "ong_-"
+        },
+        {
+            "isCV": 0,
+            "name": "o_!"
+        },
+        {
+            "isCV": 0,
+            "name": "o_a"
+        },
+        {
+            "isCV": 0,
+            "name": "o_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "o_an"
+        },
+        {
+            "isCV": 0,
+            "name": "o_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "o_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "o_b"
+        },
+        {
+            "isCV": 0,
+            "name": "o_c"
+        },
+        {
+            "isCV": 0,
+            "name": "o_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "o_d"
+        },
+        {
+            "isCV": 0,
+            "name": "o_e"
+        },
+        {
+            "isCV": 0,
+            "name": "o_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "o_en"
+        },
+        {
+            "isCV": 0,
+            "name": "o_er"
+        },
+        {
+            "isCV": 0,
+            "name": "o_f"
+        },
+        {
+            "isCV": 0,
+            "name": "o_g"
+        },
+        {
+            "isCV": 0,
+            "name": "o_h"
+        },
+        {
+            "isCV": 0,
+            "name": "o_j"
+        },
+        {
+            "isCV": 0,
+            "name": "o_k"
+        },
+        {
+            "isCV": 0,
+            "name": "o_l"
+        },
+        {
+            "isCV": 0,
+            "name": "o_m"
+        },
+        {
+            "isCV": 0,
+            "name": "o_n"
+        },
+        {
+            "isCV": 0,
+            "name": "o_o"
+        },
+        {
+            "isCV": 0,
+            "name": "o_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "o_p"
+        },
+        {
+            "isCV": 0,
+            "name": "o_q"
+        },
+        {
+            "isCV": 0,
+            "name": "o_r"
+        },
+        {
+            "isCV": 0,
+            "name": "o_s"
+        },
+        {
+            "isCV": 0,
+            "name": "o_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "o_t"
+        },
+        {
+            "isCV": 0,
+            "name": "o_w"
+        },
+        {
+            "isCV": 0,
+            "name": "o_x"
+        },
+        {
+            "isCV": 0,
+            "name": "o_y"
+        },
+        {
+            "isCV": 0,
+            "name": "o_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "o_z"
+        },
+        {
+            "isCV": 0,
+            "name": "o_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "o_-"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_!"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_a"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_an"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_b"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_c"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_d"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_e"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_en"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_er"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_f"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_g"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_h"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_j"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_k"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_l"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_m"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_n"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_o"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_p"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_q"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_r"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_s"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_t"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_w"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_x"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_y"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_z"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "ou_-"
+        },
+        {
+            "isCV": 0,
+            "name": "u_!"
+        },
+        {
+            "isCV": 0,
+            "name": "u_a"
+        },
+        {
+            "isCV": 0,
+            "name": "u_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "u_an"
+        },
+        {
+            "isCV": 0,
+            "name": "u_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "u_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "u_b"
+        },
+        {
+            "isCV": 0,
+            "name": "u_c"
+        },
+        {
+            "isCV": 0,
+            "name": "u_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "u_d"
+        },
+        {
+            "isCV": 0,
+            "name": "u_e"
+        },
+        {
+            "isCV": 0,
+            "name": "u_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "u_en"
+        },
+        {
+            "isCV": 0,
+            "name": "u_er"
+        },
+        {
+            "isCV": 0,
+            "name": "u_f"
+        },
+        {
+            "isCV": 0,
+            "name": "u_g"
+        },
+        {
+            "isCV": 0,
+            "name": "u_h"
+        },
+        {
+            "isCV": 0,
+            "name": "u_j"
+        },
+        {
+            "isCV": 0,
+            "name": "u_k"
+        },
+        {
+            "isCV": 0,
+            "name": "u_l"
+        },
+        {
+            "isCV": 0,
+            "name": "u_m"
+        },
+        {
+            "isCV": 0,
+            "name": "u_n"
+        },
+        {
+            "isCV": 0,
+            "name": "u_o"
+        },
+        {
+            "isCV": 0,
+            "name": "u_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "u_p"
+        },
+        {
+            "isCV": 0,
+            "name": "u_q"
+        },
+        {
+            "isCV": 0,
+            "name": "u_r"
+        },
+        {
+            "isCV": 0,
+            "name": "u_s"
+        },
+        {
+            "isCV": 0,
+            "name": "u_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "u_t"
+        },
+        {
+            "isCV": 0,
+            "name": "u_w"
+        },
+        {
+            "isCV": 0,
+            "name": "u_x"
+        },
+        {
+            "isCV": 0,
+            "name": "u_y"
+        },
+        {
+            "isCV": 0,
+            "name": "u_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "u_z"
+        },
+        {
+            "isCV": 0,
+            "name": "u_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "u_-"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_!"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_a"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_an"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_b"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_c"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_d"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_e"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_en"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_er"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_f"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_g"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_h"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_j"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_k"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_l"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_m"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_n"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_o"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_p"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_q"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_r"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_s"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_t"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_w"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_x"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_y"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_z"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "e0_-"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_!"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_a"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_an"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_b"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_c"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_d"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_e"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_en"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_er"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_f"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_g"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_h"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_j"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_k"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_l"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_m"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_n"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_o"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_p"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_q"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_r"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_s"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_t"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_w"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_x"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_y"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_z"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "vn_-"
+        },
+        {
+            "isCV": 0,
+            "name": "v_!"
+        },
+        {
+            "isCV": 0,
+            "name": "v_a"
+        },
+        {
+            "isCV": 0,
+            "name": "v_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "v_an"
+        },
+        {
+            "isCV": 0,
+            "name": "v_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "v_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "v_b"
+        },
+        {
+            "isCV": 0,
+            "name": "v_c"
+        },
+        {
+            "isCV": 0,
+            "name": "v_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "v_d"
+        },
+        {
+            "isCV": 0,
+            "name": "v_e"
+        },
+        {
+            "isCV": 0,
+            "name": "v_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "v_en"
+        },
+        {
+            "isCV": 0,
+            "name": "v_er"
+        },
+        {
+            "isCV": 0,
+            "name": "v_f"
+        },
+        {
+            "isCV": 0,
+            "name": "v_g"
+        },
+        {
+            "isCV": 0,
+            "name": "v_h"
+        },
+        {
+            "isCV": 0,
+            "name": "v_j"
+        },
+        {
+            "isCV": 0,
+            "name": "v_k"
+        },
+        {
+            "isCV": 0,
+            "name": "v_l"
+        },
+        {
+            "isCV": 0,
+            "name": "v_m"
+        },
+        {
+            "isCV": 0,
+            "name": "v_n"
+        },
+        {
+            "isCV": 0,
+            "name": "v_o"
+        },
+        {
+            "isCV": 0,
+            "name": "v_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "v_p"
+        },
+        {
+            "isCV": 0,
+            "name": "v_q"
+        },
+        {
+            "isCV": 0,
+            "name": "v_r"
+        },
+        {
+            "isCV": 0,
+            "name": "v_s"
+        },
+        {
+            "isCV": 0,
+            "name": "v_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "v_t"
+        },
+        {
+            "isCV": 0,
+            "name": "v_w"
+        },
+        {
+            "isCV": 0,
+            "name": "v_x"
+        },
+        {
+            "isCV": 0,
+            "name": "v_y"
+        },
+        {
+            "isCV": 0,
+            "name": "v_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "v_z"
+        },
+        {
+            "isCV": 0,
+            "name": "v_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "v_-"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_!"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_a"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_an"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_b"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_c"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_d"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_e"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_en"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_er"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_f"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_g"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_h"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_j"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_k"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_l"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_m"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_n"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_o"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_p"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_q"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_r"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_s"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_t"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_w"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_x"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_y"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_z"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "en0_-"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_!"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_a"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_an"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_b"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_c"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_d"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_e"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_en"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_er"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_f"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_g"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_h"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_j"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_k"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_l"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_m"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_n"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_o"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_p"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_q"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_r"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_s"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_t"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_w"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_x"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_y"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_z"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "ir_-"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_!"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_a"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_ai"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_an"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_ang"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_ao"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_b"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_c"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_ch"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_d"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_e"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_ei"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_en"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_er"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_f"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_g"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_h"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_j"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_k"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_l"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_m"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_n"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_o"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_ou"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_p"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_q"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_r"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_s"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_sh"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_t"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_w"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_x"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_y"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_yw"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_z"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_zh"
+        },
+        {
+            "isCV": 0,
+            "name": "i0_-"
+        },
+        {
+            "isCV": -1,
+            "name": "@R"
+        }
+    ],
+    "paths": [
+        "E:/Music-----------------/S/myvoicebanks/Kumi/wav"
+    ],
+    "pitch": "A3",
+    "symbols": [
+        "!a,!,a",
+        "!ai,!,ai",
+        "!an,!,an",
+        "!ang,!,ang",
+        "!ao,!,ao",
+        "!e,!,e",
+        "!ei,!,ei",
+        "!en,!,en",
+        "!eng,!,eng",
+        "!er,!,er",
+        "!i,!,i",
+        "!ing,!,ing",
+        "!in,!,in",
+        "!ong,!,ong",
+        "!o,!,o",
+        "!ou,!,ou",
+        "!u,!,u",
+        "!e0,!,e0",
+        "!vn,!,vn",
+        "!v,!,v",
+        "a,a,a",
+        "ai,ai,ai",
+        "an,an,an",
+        "ang,ang,ang",
+        "ao,ao,ao",
+        "ba,b,a",
+        "bai,b,ai",
+        "ban,b,an",
+        "bang,b,ang",
+        "bao,b,ao",
+        "bei,b,ei",
+        "ben,b,en",
+        "beng,b,eng",
+        "bi,b,i",
+        "bian,b,en0",
+        "biao,b,ao",
+        "bie,b,e0",
+        "bin,b,in",
+        "bing,b,ing",
+        "bo,b,o",
+        "bu,b,u",
+        "ca,c,a",
+        "cai,c,ai",
+        "can,c,an",
+        "cang,c,ang",
+        "cao,c,ao",
+        "ce,c,e",
+        "cen,c,en",
+        "ceng,c,eng",
+        "cha,ch,a",
+        "chai,ch,ai",
+        "chan,ch,an",
+        "chang,ch,ang",
+        "chao,ch,ao",
+        "che,ch,e",
+        "chen,ch,en",
+        "cheng,ch,eng",
+        "chi,ch,ir",
+        "chong,ch,ong",
+        "chou,ch,ou",
+        "chu,ch,u",
+        "chua,ch,a",
+        "chuai,ch,ai",
+        "chuan,ch,an",
+        "chuang,ch,ang",
+        "chui,ch,ei",
+        "chun,ch,en",
+        "chuo,ch,o",
+        "ci,c,i0",
+        "cong,c,ong",
+        "cou,c,ou",
+        "cu,c,u",
+        "cuan,c,an",
+        "cui,c,ei",
+        "cun,c,en",
+        "cuo,c,o",
+        "da,d,a",
+        "dai,d,ai",
+        "dan,d,an",
+        "dang,d,ang",
+        "dao,d,ao",
+        "de,d,e",
+        "dei,d,ei",
+        "den,d,en",
+        "deng,d,eng",
+        "di,d,i",
+        "dia,d,a",
+        "dian,d,en0",
+        "diao,d,ao",
+        "die,d,e0",
+        "ding,d,ing",
+        "diu,d,ou",
+        "dong,d,ong",
+        "dou,d,ou",
+        "du,d,u",
+        "duan,d,an",
+        "dui,d,ei",
+        "dun,d,en",
+        "duo,d,o",
+        "e,e,e",
+        "ei,ei,ei",
+        "en,en,en",
+        "er,er,er",
+        "fa,f,a",
+        "fan,f,an",
+        "fang,f,ang",
+        "fei,f,ei",
+        "fen,f,en",
+        "feng,f,eng",
+        "fo,f,o",
+        "fou,f,ou",
+        "fu,f,u",
+        "ga,g,a",
+        "gai,g,ai",
+        "gan,g,an",
+        "gang,g,ang",
+        "gao,g,ao",
+        "ge,g,e",
+        "gei,g,ei",
+        "gen,g,en",
+        "geng,g,eng",
+        "gong,g,ong",
+        "gou,g,ou",
+        "gu,g,u",
+        "gua,g,a",
+        "guai,g,ai",
+        "guan,g,an",
+        "guang,g,ang",
+        "gui,g,ei",
+        "gun,g,en",
+        "guo,g,o",
+        "ha,h,a",
+        "hai,h,ai",
+        "han,h,an",
+        "hang,h,ang",
+        "hao,h,ao",
+        "he,h,e",
+        "hei,h,ei",
+        "hen,h,en",
+        "heng,h,eng",
+        "hong,h,ong",
+        "hou,h,ou",
+        "hu,h,u",
+        "hua,h,a",
+        "huai,h,ai",
+        "huan,h,an",
+        "huang,h,ang",
+        "hui,h,ei",
+        "hun,h,en",
+        "huo,h,o",
+        "ji,j,i",
+        "jia,j,a",
+        "jian,j,en0",
+        "jiang,j,ang",
+        "jiao,j,ao",
+        "jie,j,e0",
+        "jin,j,in",
+        "jing,j,ing",
+        "jiong,j,ong",
+        "jiu,j,ou",
+        "ju,j,v",
+        "juan,j,en0",
+        "jue,j,e0",
+        "jun,j,vn",
+        "ka,k,a",
+        "kai,k,ai",
+        "kan,k,an",
+        "kang,k,ang",
+        "kao,k,ao",
+        "ke,k,e",
+        "kei,k,ei",
+        "ken,k,en",
+        "keng,k,eng",
+        "kong,k,ong",
+        "kou,k,ou",
+        "ku,k,u",
+        "kua,k,a",
+        "kuai,k,ai",
+        "kuan,k,an",
+        "kuang,k,ang",
+        "kui,k,ei",
+        "kun,k,en",
+        "kuo,k,o",
+        "la,l,a",
+        "lai,l,ai",
+        "lan,l,an",
+        "lang,l,ang",
+        "lao,l,ao",
+        "le,l,e",
+        "lei,l,ei",
+        "leng,l,eng",
+        "li,l,i",
+        "lia,l,a",
+        "lian,l,en0",
+        "liang,l,ang",
+        "liao,l,ao",
+        "lie,l,e0",
+        "lin,l,in",
+        "ling,l,ing",
+        "liu,l,ou",
+        "lo,l,o",
+        "long,l,ong",
+        "lou,l,ou",
+        "lu,l,u",
+        "luan,l,an",
+        "lun,l,en",
+        "luo,l,o",
+        "lv,l,v",
+        "lve,l,e0",
+        "ma,m,a",
+        "mai,m,ai",
+        "man,m,an",
+        "mang,m,ang",
+        "mao,m,ao",
+        "me,m,e",
+        "mei,m,ei",
+        "men,m,en",
+        "meng,m,eng",
+        "mi,m,i",
+        "mian,m,en0",
+        "miao,m,ao",
+        "mie,m,e0",
+        "min,m,in",
+        "ming,m,ing",
+        "miu,m,ou",
+        "mo,m,o",
+        "mou,m,ou",
+        "mu,m,u",
+        "na,n,a",
+        "nai,n,ai",
+        "nan,n,an",
+        "nang,n,ang",
+        "nao,n,ao",
+        "ne,n,e",
+        "nei,n,ei",
+        "nen,n,en",
+        "neng,n,eng",
+        "ni,n,i",
+        "nian,n,en0",
+        "niang,n,ang",
+        "niao,n,ao",
+        "nie,n,e0",
+        "nin,n,in",
+        "ning,n,ing",
+        "niu,n,ou",
+        "nong,n,ong",
+        "nou,n,ou",
+        "nu,n,u",
+        "nuan,n,an",
+        "nuo,n,o",
+        "nv,n,v",
+        "nve,n,e0",
+        "o,o,o",
+        "ou,ou,ou",
+        "pa,p,a",
+        "pai,p,ai",
+        "pan,p,an",
+        "pang,p,ang",
+        "pao,p,ao",
+        "pei,p,ei",
+        "pen,p,en",
+        "peng,p,eng",
+        "pi,p,i",
+        "pian,p,en0",
+        "piao,p,ao",
+        "pie,p,e0",
+        "pin,p,in",
+        "ping,p,ing",
+        "po,p,o",
+        "pou,p,ou",
+        "pu,p,u",
+        "qi,q,i",
+        "qia,q,a",
+        "qian,q,en0",
+        "qiang,q,ang",
+        "qiao,q,ao",
+        "qie,q,e0",
+        "qin,q,in",
+        "qing,q,ing",
+        "qiong,q,ong",
+        "qiu,q,ou",
+        "qu,q,v",
+        "quan,q,en0",
+        "que,q,e0",
+        "qun,q,vn",
+        "ran,r,an",
+        "rang,r,ang",
+        "rao,r,ao",
+        "re,r,e",
+        "ren,r,en",
+        "reng,r,eng",
+        "ri,r,ir",
+        "rong,r,ong",
+        "rou,r,ou",
+        "ru,r,u",
+        "ruan,r,an",
+        "rui,r,ei",
+        "run,r,en",
+        "ruo,r,o",
+        "sa,s,a",
+        "sai,s,ai",
+        "san,s,an",
+        "sang,s,ang",
+        "sao,s,ao",
+        "se,s,e",
+        "sen,s,en",
+        "seng,s,eng",
+        "sha,sh,a",
+        "shai,sh,ai",
+        "shan,sh,an",
+        "shang,sh,ang",
+        "shao,sh,ao",
+        "she,sh,e",
+        "shei,sh,ei",
+        "shen,sh,en",
+        "sheng,sh,eng",
+        "shi,sh,ir",
+        "shou,sh,ou",
+        "shu,sh,u",
+        "shua,sh,a",
+        "shuai,sh,ai",
+        "shuan,sh,an",
+        "shuang,sh,ang",
+        "shui,sh,ei",
+        "shun,sh,en",
+        "shuo,sh,o",
+        "si,s,i0",
+        "song,s,ong",
+        "sou,s,ou",
+        "su,s,u",
+        "suan,s,an",
+        "sui,s,ei",
+        "sun,s,en",
+        "suo,s,o",
+        "ta,t,a",
+        "tai,t,ai",
+        "tan,t,an",
+        "tang,t,ang",
+        "tao,t,ao",
+        "te,t,e",
+        "teng,t,eng",
+        "ti,t,i",
+        "tian,t,en0",
+        "tiao,t,ao",
+        "tie,t,e0",
+        "ting,t,ing",
+        "tong,t,ong",
+        "tou,t,ou",
+        "tu,t,u",
+        "tuan,t,an",
+        "tui,t,ei",
+        "tun,t,en",
+        "tuo,t,o",
+        "wa,w,a",
+        "wai,w,ai",
+        "wan,w,an",
+        "wang,w,ang",
+        "wei,w,ei",
+        "wen,w,en",
+        "weng,w,eng",
+        "wo,w,o",
+        "wu,w,u",
+        "xi,x,i",
+        "xia,x,a",
+        "xian,x,en0",
+        "xiang,x,ang",
+        "xiao,x,ao",
+        "xie,x,e0",
+        "xin,x,in",
+        "xing,x,ing",
+        "xiong,x,ong",
+        "xiu,x,ou",
+        "xu,x,v",
+        "xuan,x,en0",
+        "xue,x,e0",
+        "xun,x,vn",
+        "ya,y,a",
+        "yan,y,en0",
+        "yang,y,ang",
+        "yao,y,ao",
+        "ye,y,e0",
+        "yi,y,i",
+        "yin,y,in",
+        "ying,y,ing",
+        "yo,y,o",
+        "yong,y,ong",
+        "you,y,ou",
+        "yu,yw,v",
+        "yuan,yw,en0",
+        "yue,yw,e0",
+        "yun,yw,vn",
+        "za,z,a",
+        "zai,z,ai",
+        "zan,z,an",
+        "zang,z,ang",
+        "zao,z,ao",
+        "ze,z,e",
+        "zei,z,ei",
+        "zen,z,en",
+        "zeng,z,eng",
+        "zha,zh,a",
+        "zhai,zh,ai",
+        "zhan,zh,an",
+        "zhang,zh,ang",
+        "zhao,zh,ao",
+        "zhe,zh,e",
+        "zhei,zh,ei",
+        "zhen,zh,en",
+        "zheng,zh,eng",
+        "zhi,zh,ir",
+        "zhong,zh,ong",
+        "zhou,zh,ou",
+        "zhu,zh,u",
+        "zhua,zh,a",
+        "zhuai,zh,ai",
+        "zhuan,zh,an",
+        "zhuang,zh,ang",
+        "zhui,zh,ei",
+        "zhun,zh,en",
+        "zhuo,zh,o",
+        "zi,z,i0",
+        "zong,z,ong",
+        "zou,z,ou",
+        "zu,z,u",
+        "zuan,z,an",
+        "zui,z,ei",
+        "zun,z,en",
+        "zuo,z,o",
+        "tei,t,ei",
+        "sei,s,ei",
+        "",
+        "@R"
+    ]
+}
