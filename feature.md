@@ -7,6 +7,7 @@
 |T2|D4|
 |T3|A4|
 |T4|D5|
+
 T4音阶为假声
 
 ## 常规音素
@@ -37,7 +38,10 @@ a ai an ang ao o ou ong e ei en eng e0 en0 i in ing u v vn i0 ir er
 ### 喉塞音 !
 喉塞音采样来源于[Hitsuboku Kumi 日文Act4](https://cubialpha.wixsite.com/koomstar/act4)，因此不支持所有拼音。有两种调用方式：
 - 句尾调用：在音符后面加一个"!"音符，支持a i e0 o韵尾
+
 ![](Resource/2021-05-27-22-05-32.png)
+
 - 开头或句中调用："!+"，支持!a !ai !an !ang !ao !i !in !ing !e0 !ei !en0 !o !ou !ong
+
 ![](Resource/2021-05-27-22-07-30.png)
 
