@@ -15019,6 +15019,17 @@
       "vowelStart" : 0.4057670,
       "wavName" : "_jun_jun.wav"
    },
+   "A3->k" : {
+      "endPoint" : 0.1041553579270840,
+      "endTime" : 1.480058606714010,
+      "pitch" : "A3",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 1.315903250128031,
+      "symbol" : "k",
+      "updateTime" : "2021-05-30 17:50:47",
+      "wavName" : "_ke_ke.wav"
+   },
    "A3->ka" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 2.121316998658895,
@@ -17513,6 +17524,17 @@
       "updateTime" : "2020-12-11 14:14:10",
       "wavName" : "_ou_zh.wav"
    },
+   "A3->p" : {
+      "endPoint" : 0.1044108234345913,
+      "endTime" : 1.468491490930319,
+      "pitch" : "A3",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 1.304080668836832,
+      "symbol" : "p",
+      "updateTime" : "2021-05-30 17:53:17",
+      "wavName" : "_pu_pu.wav"
+   },
    "A3->pa" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 2.239833998658895,
@@ -17751,6 +17773,17 @@
       "vowelStart" : 0.3214560,
       "wavName" : "_pu_pu.wav"
    },
+   "A3->q" : {
+      "endPoint" : 0.1804525218904018,
+      "endTime" : 1.586159642785788,
+      "pitch" : "A3",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 1.345707122236490,
+      "symbol" : "q",
+      "updateTime" : "2021-05-30 17:36:47",
+      "wavName" : "_qi_qi.wav"
+   },
    "A3->qi" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 2.138368900865316,
@@ -17823,16 +17856,16 @@
    },
    "A3->qie" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 2.052166998658895,
+      "endTime" : 2.052166994661093,
       "pitch" : "A3",
-      "preutterance" : 0.2039920,
+      "preutterance" : 0.1558762155473232,
       "srcType" : "CV",
-      "startTime" : 1.2377960,
+      "startTime" : 1.260807935148478,
       "symbol" : "qie",
-      "tailPoint" : 0.8093709986588955,
-      "updateTime" : "2020-12-11 14:14:10",
-      "vowelEnd" : 0.7543709999999999,
-      "vowelStart" : 0.3858730000000001,
+      "tailPoint" : 0.7863590595126153,
+      "updateTime" : "2021-05-30 17:48:32",
+      "vowelEnd" : 0.7313590608537197,
+      "vowelStart" : 0.3628610931336880,
       "wavName" : "_qie_qie.wav"
    },
    "A3->qin" : {
@@ -17946,6 +17979,17 @@
       "vowelEnd" : 0.8121530000000004,
       "vowelStart" : 0.5137550,
       "wavName" : "_qun_qun.wav"
+   },
+   "A3->r" : {
+      "endPoint" : 0.1126595102250576,
+      "endTime" : 1.510758455842733,
+      "pitch" : "A3",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 1.338098946958780,
+      "symbol" : "r",
+      "updateTime" : "2021-05-30 17:45:28",
+      "wavName" : "_run_run.wav"
    },
    "A3->ran" : {
       "connectPoint" : 0.05999999865889549,
@@ -18654,6 +18698,17 @@
       "vowelEnd" : 0.7837350000000003,
       "vowelStart" : 0.3602930,
       "wavName" : "_suo_suo.wav"
+   },
+   "A3->t" : {
+      "endPoint" : 0.1051016412675381,
+      "endTime" : 1.516966637223959,
+      "pitch" : "A3",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 1.351864997297525,
+      "symbol" : "t",
+      "updateTime" : "2021-05-30 17:52:34",
+      "wavName" : "_te_te.wav"
    },
    "A3->ta" : {
       "connectPoint" : 0.05999999865889549,
@@ -20300,6 +20355,17 @@
       "vowelEnd" : 0.7187944017350674,
       "vowelStart" : 0.3680077157914639,
       "wavName" : "_wu_wu.wav"
+   },
+   "A3->x" : {
+      "endPoint" : 0.1669480167329311,
+      "endTime" : 1.485649880021811,
+      "pitch" : "A3",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 1.258701864629984,
+      "symbol" : "x",
+      "updateTime" : "2021-05-30 17:41:03",
+      "wavName" : "_xie_xie.wav"
    },
    "A3->xi" : {
       "connectPoint" : 0.05999999865889549,
@@ -36245,6 +36311,17 @@
       "vowelStart" : 0.4730260,
       "wavName" : "_jun_jun.wav"
    },
+   "A4->k" : {
+      "endPoint" : 0.09112268313765526,
+      "endTime" : 5.458864267915487,
+      "pitch" : "A4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 5.307741586118937,
+      "symbol" : "k",
+      "updateTime" : "2021-05-30 17:51:07",
+      "wavName" : "_ke_ke.wav"
+   },
    "A4->ka" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.084806998658896,
@@ -38739,6 +38816,17 @@
       "updateTime" : "2020-12-11 14:14:33",
       "wavName" : "_ou_zh.wav"
    },
+   "A4->p" : {
+      "endPoint" : 0.09917217120528221,
+      "endTime" : 5.459539469331503,
+      "pitch" : "A4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 5.300367299467325,
+      "symbol" : "p",
+      "updateTime" : "2021-05-30 17:53:36",
+      "wavName" : "_pu_pu.wav"
+   },
    "A4->pa" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.205599998658895,
@@ -38977,6 +39065,17 @@
       "vowelStart" : 0.3290340000000001,
       "wavName" : "_pu_pu.wav"
    },
+   "A4->q" : {
+      "endPoint" : 0.1481462083756924,
+      "endTime" : 5.420200403779745,
+      "pitch" : "A4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 5.212054196745157,
+      "symbol" : "q",
+      "updateTime" : "2021-05-30 17:38:19",
+      "wavName" : "_qie_qie.wav"
+   },
    "A4->qi" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.135960998658896,
@@ -39049,16 +39148,16 @@
    },
    "A4->qie" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.082926998658896,
+      "endTime" : 6.082926806062460,
       "pitch" : "A4",
-      "preutterance" : 0.1992520000000004,
+      "preutterance" : 0.1567164026200771,
       "srcType" : "CV",
-      "startTime" : 5.180460,
+      "startTime" : 5.203471127897501,
       "symbol" : "qie",
-      "tailPoint" : 0.8974669986588957,
-      "updateTime" : "2020-12-11 14:14:33",
-      "vowelEnd" : 0.8424670000000001,
-      "vowelStart" : 0.3612400000000005,
+      "tailPoint" : 0.8744556781649591,
+      "updateTime" : "2021-05-30 17:48:26",
+      "vowelEnd" : 0.8194556795060635,
+      "vowelStart" : 0.3382287584245205,
       "wavName" : "_qie_qie.wav"
    },
    "A4->qin" : {
@@ -39172,6 +39271,17 @@
       "vowelEnd" : 0.8528880000000001,
       "vowelStart" : 0.4787049999999997,
       "wavName" : "_qun_qun.wav"
+   },
+   "A4->r" : {
+      "endPoint" : 0.1244035325944424,
+      "endTime" : 5.557028826326132,
+      "pitch" : "A4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 5.372625295072794,
+      "symbol" : "r",
+      "updateTime" : "2021-05-30 17:43:44",
+      "wavName" : "_ren_ren.wav"
    },
    "A4->ran" : {
       "connectPoint" : 0.05999999865889549,
@@ -39880,6 +39990,17 @@
       "vowelEnd" : 0.957090,
       "vowelStart" : 0.3517669999999997,
       "wavName" : "_suo_suo.wav"
+   },
+   "A4->t" : {
+      "endPoint" : 0.09779792651534081,
+      "endTime" : 5.475024756044149,
+      "pitch" : "A4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 5.317226830869913,
+      "symbol" : "t",
+      "updateTime" : "2021-05-30 17:52:14",
+      "wavName" : "_te_te.wav"
    },
    "A4->ta" : {
       "connectPoint" : 0.05999999865889549,
@@ -41526,6 +41647,17 @@
       "vowelEnd" : 0.7187944017350674,
       "vowelStart" : 0.3680077157914639,
       "wavName" : "_wu_wu.wav"
+   },
+   "A4->x" : {
+      "endPoint" : 0.1858721338212490,
+      "endTime" : 5.440737303346396,
+      "pitch" : "A4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 5.194865170866251,
+      "symbol" : "x",
+      "updateTime" : "2021-05-30 17:39:10",
+      "wavName" : "_xie_xie.wav"
    },
    "A4->xi" : {
       "connectPoint" : 0.05999999865889549,
@@ -57426,6 +57558,17 @@
       "vowelStart" : 0.5942760000000003,
       "wavName" : "_jun_jun.wav"
    },
+   "D4->k" : {
+      "endPoint" : 0.08674674853682518,
+      "endTime" : 3.477259214967489,
+      "pitch" : "D4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 3.330512467771769,
+      "symbol" : "k",
+      "updateTime" : "2021-05-30 17:50:56",
+      "wavName" : "_ke_ke.wav"
+   },
    "D4->ka" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 4.144774998658895,
@@ -59920,6 +60063,17 @@
       "updateTime" : "2020-12-11 14:13:16",
       "wavName" : "_ou_zh.wav"
    },
+   "D4->p" : {
+      "endPoint" : 0.09248166903853416,
+      "endTime" : 3.478234823793173,
+      "pitch" : "D4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 3.325753156095743,
+      "symbol" : "p",
+      "updateTime" : "2021-05-30 17:53:26",
+      "wavName" : "_pu_pu.wav"
+   },
    "D4->pa" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 4.077784998658895,
@@ -60158,6 +60312,17 @@
       "vowelStart" : 0.3697659999999998,
       "wavName" : "_pu_pu.wav"
    },
+   "D4->q" : {
+      "endPoint" : 0.1458294950425625,
+      "endTime" : 3.455955799669027,
+      "pitch" : "D4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 3.250126305967569,
+      "symbol" : "q",
+      "updateTime" : "2021-05-30 17:37:35",
+      "wavName" : "_qie_qie.wav"
+   },
    "D4->qi" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 4.231895025819540,
@@ -60230,16 +60395,16 @@
    },
    "D4->qie" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 4.073703998658896,
+      "endTime" : 4.073703821748495,
       "pitch" : "D4",
-      "preutterance" : 0.1973579999999999,
+      "preutterance" : 0.1471386514604092,
       "srcType" : "CV",
-      "startTime" : 3.2328120,
+      "startTime" : 3.257921401411295,
       "symbol" : "qie",
-      "tailPoint" : 0.8358919986588962,
-      "updateTime" : "2020-12-11 14:13:16",
-      "vowelEnd" : 0.7808920000000006,
-      "vowelStart" : 0.3574510000000002,
+      "tailPoint" : 0.8107824203372003,
+      "updateTime" : "2021-05-30 17:47:10",
+      "vowelEnd" : 0.7557824216783047,
+      "vowelStart" : 0.3323414884507656,
       "wavName" : "_qie_qie.wav"
    },
    "D4->qin" : {
@@ -60353,6 +60518,17 @@
       "vowelEnd" : 0.7174250,
       "vowelStart" : 0.3754510,
       "wavName" : "_qun_qun.wav"
+   },
+   "D4->r" : {
+      "endPoint" : 0.1111610494554043,
+      "endTime" : 3.563456591218710,
+      "pitch" : "D4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 3.392295543104410,
+      "symbol" : "r",
+      "updateTime" : "2021-05-30 17:44:32",
+      "wavName" : "_rui_rui.wav"
    },
    "D4->ran" : {
       "connectPoint" : 0.05999999865889549,
@@ -61061,6 +61237,17 @@
       "vowelEnd" : 0.7704740000000006,
       "vowelStart" : 0.3716620000000002,
       "wavName" : "_suo_suo.wav"
+   },
+   "D4->t" : {
+      "endPoint" : 0.09382992610335350,
+      "endTime" : 3.454709347337484,
+      "pitch" : "D4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 3.300879422575235,
+      "symbol" : "t",
+      "updateTime" : "2021-05-30 17:52:24",
+      "wavName" : "_te_te.wav"
    },
    "D4->ta" : {
       "connectPoint" : 0.05999999865889549,
@@ -62707,6 +62894,17 @@
       "vowelEnd" : 0.7187951169908047,
       "vowelStart" : 0.3680079542100430,
       "wavName" : "_wu_wu.wav"
+   },
+   "D4->x" : {
+      "endPoint" : 0.1871994100511074,
+      "endTime" : 3.452008780092001,
+      "pitch" : "D4",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 3.204809371381998,
+      "symbol" : "x",
+      "updateTime" : "2021-05-30 17:40:48",
+      "wavName" : "_xie_xie.wav"
    },
    "D4->xi" : {
       "connectPoint" : 0.05999999865889549,
@@ -78613,6 +78811,17 @@
       "vowelStart" : 0.4019750000000002,
       "wavName" : "_jun_jun.wav"
    },
+   "D5->k" : {
+      "endPoint" : 0.09267860278487206,
+      "endTime" : 7.469382818788290,
+      "pitch" : "D5",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 7.316704217344523,
+      "symbol" : "k",
+      "updateTime" : "2021-05-30 17:51:18",
+      "wavName" : "_ke_ke.wav"
+   },
    "D5->ka" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 8.179280998658896,
@@ -81107,6 +81316,17 @@
       "updateTime" : "2020-12-11 14:14:59",
       "wavName" : "_ou_zh.wav"
    },
+   "D5->p" : {
+      "endPoint" : 0.09263616427779198,
+      "endTime" : 7.442245062440634,
+      "pitch" : "D5",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 7.289608899503946,
+      "symbol" : "p",
+      "updateTime" : "2021-05-30 17:53:49",
+      "wavName" : "_pu_pu.wav"
+   },
    "D5->pa" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 8.011344998658897,
@@ -81345,6 +81565,17 @@
       "vowelStart" : 0.3176660,
       "wavName" : "_pu_pu.wav"
    },
+   "D5->q" : {
+      "endPoint" : 0.1349888406693935,
+      "endTime" : 7.361959036439657,
+      "pitch" : "D5",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 7.166970197111368,
+      "symbol" : "q",
+      "updateTime" : "2021-05-30 17:38:09",
+      "wavName" : "_qie_qie.wav"
+   },
    "D5->qi" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 8.264537390321493,
@@ -81417,16 +81648,16 @@
    },
    "D5->qie" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 7.909321998658896,
+      "endTime" : 7.909321840852499,
       "pitch" : "D5",
-      "preutterance" : 0.1983069999999998,
+      "preutterance" : 0.1386008821427822,
       "srcType" : "CV",
-      "startTime" : 7.125265000000001,
+      "startTime" : 7.165172044187784,
       "symbol" : "qie",
-      "tailPoint" : 0.7790569986588958,
-      "updateTime" : "2020-12-11 14:14:59",
-      "vowelEnd" : 0.7240570000000002,
-      "vowelStart" : 0.3555580000000003,
+      "tailPoint" : 0.7391497966647149,
+      "updateTime" : "2021-05-30 17:48:17",
+      "vowelEnd" : 0.6841497980058193,
+      "vowelStart" : 0.3156509958207607,
       "wavName" : "_qie_qie.wav"
    },
    "D5->qin" : {
@@ -81540,6 +81771,17 @@
       "vowelEnd" : 0.7572319999999992,
       "vowelStart" : 0.4446240000000001,
       "wavName" : "_qun_qun.wav"
+   },
+   "D5->r" : {
+      "endPoint" : 0.1325488649308682,
+      "endTime" : 7.542402323335409,
+      "pitch" : "D5",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 7.349853459745646,
+      "symbol" : "r",
+      "updateTime" : "2021-05-30 17:43:29",
+      "wavName" : "_ren_ren.wav"
    },
    "D5->ran" : {
       "connectPoint" : 0.05999999865889549,
@@ -82249,6 +82491,17 @@
       "vowelStart" : 0.3640829999999999,
       "wavName" : "_suo_suo.wav"
    },
+   "D5->t" : {
+      "endPoint" : 0.1125588975846767,
+      "endTime" : 7.467206057161093,
+      "pitch" : "D5",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 7.294647160917521,
+      "symbol" : "t",
+      "updateTime" : "2021-05-30 17:52:02",
+      "wavName" : "_te_te.wav"
+   },
    "D5->ta" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 8.288928998658896,
@@ -82321,16 +82574,16 @@
    },
    "D5->te" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 8.233276998658896,
+      "endTime" : 8.233276899904013,
       "pitch" : "D5",
-      "preutterance" : 0.1604140000000003,
+      "preutterance" : 0.1074328981339932,
       "srcType" : "CV",
-      "startTime" : 7.253131000000001,
+      "startTime" : 7.297066632658243,
       "symbol" : "te",
-      "tailPoint" : 0.9751459986588946,
-      "updateTime" : "2020-12-11 14:14:59",
-      "vowelEnd" : 0.9201459999999999,
-      "vowelStart" : 0.3129280000000003,
+      "tailPoint" : 0.9312102672457687,
+      "updateTime" : "2021-05-30 17:51:48",
+      "vowelEnd" : 0.8762102685868740,
+      "vowelStart" : 0.2689924798905850,
       "wavName" : "_te_te.wav"
    },
    "D5->teng" : {
@@ -83894,6 +84147,17 @@
       "vowelEnd" : 0.7187910638749591,
       "vowelStart" : 0.3680086694657803,
       "wavName" : "_wu_wu.wav"
+   },
+   "D5->x" : {
+      "endPoint" : 0.2026925645768642,
+      "endTime" : 7.387513216584921,
+      "pitch" : "D5",
+      "srcType" : "INDIE",
+      "startPoint" : 0.05999999865889549,
+      "startTime" : 7.124820653349161,
+      "symbol" : "x",
+      "updateTime" : "2021-05-30 17:40:29",
+      "wavName" : "_xie_xie.wav"
    },
    "D5->xi" : {
       "connectPoint" : 0.05999999865889549,

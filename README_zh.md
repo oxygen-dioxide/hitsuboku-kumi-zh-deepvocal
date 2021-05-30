@@ -5,6 +5,8 @@ Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目�
 
 根据Hitsuboku Kumi的[用户协议](https://cubialpha.wixsite.com/koomstar/character)，二次分发，修改oto.ini和音频文件，以及移植到其他合成引擎是允许的，但需要保持名称"Hitsuboku Kumi"不变，注明原作者"Cubialpha"，提供[官网链接](https://cubialpha.wixsite.com/koomstar)，并明确说明你做了编辑。
 
+如果你喜欢这个音源，请给她点一个Star。
+
 ## [试听](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/issues/1)
 (花欺~沉睡在浮空的花海，曲：Cube^3，词：雨狸，工程：卦者那啥子靈風)
 
@@ -14,9 +16,10 @@ Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目�
 ## 技术规格
 - 4音阶 (A3, D4, A4, D5)
 - 使用飞天胶囊录音表
+- 提供dvtb1.1.6和dvtb2.1.0构建的版本
 - 尾音：R
 - 喉塞音（来自[Hitsuboku Kumi 日文Act4](https://cubialpha.wixsite.com/koomstar/act4)），例如"!a" "a_!"
-- Deepvocal Toolbox 2.1.0
+- 独立辅音（仅dv1版本支持）：p, f, t, k, q, x, c, s, ch, sh, r
 
 详见[特性列表](feature.md)
 

@@ -45,3 +45,13 @@ a ai an ang ao o ou ong e ei en eng e0 en0 i in ing u v vn i0 ir er
 
 ![](Resource/2021-05-27-22-07-30.png)
 
+### 独立辅音
+由于dvtb2的bug，只有dvtb1构建版才支持独立辅音
+
+支持 p, f, t, k, q, x, c, s, ch, sh, r
+
+单独调用，如果紧跟在常规音符后面，将调用对应VC部
+
+![](Resource/2021-05-30-21-22-49.png)
+
+这一特性可用于跨语种、bbox
