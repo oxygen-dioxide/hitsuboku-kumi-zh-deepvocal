@@ -1,5 +1,6 @@
-import json
 import os
+import sys
+import json
 import time
 
 def skreadvalue(file):
@@ -9,7 +10,7 @@ def skreadstring(file):
     return str(file.read(skreadvalue(file)),"utf-8")
 
 
-filename = "E:\Music-----------------\S\myvoicebanks\kumi\kumi.dvtb"
+filename = os.path.split(os.path.abspath(sys.argv[0]))[0]+"\kumi.dvtb"
 file=open(filename,"rb")
 file.read(27)
 #读字典
@@ -37,7 +38,7 @@ for i in range(0,skreadvalue(file)):
 deletelist=[]
 file.read(5)
 modelpath=skreadstring(file)
-print(modelpath)
+print("dvmodel目录："+modelpath+"\n")
 for i in os.listdir(modelpath):
     sp=i.split('.')
     if(len(sp)>=3 and sp[2]=="DVModel"):

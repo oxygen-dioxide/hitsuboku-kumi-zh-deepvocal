@@ -45,4 +45,7 @@ For example, if you downloaded this repo to C:\hitsuboku-kumi-chn-deepvocal, the
 
 [Deepvocal toolbox manual](https://drive.google.com/drive/folders/1kAlPZnSO9f4pv5wbVJUdNNQXZQOy6pGA?usp=sharing)
 
+[Deepvocal Mark Tool (DVMT) repo](https://github.com/FangCunWuChang/DeepVocal-Mark-Tool)
+
 [Hitsuboku Kumi Official Site](https://cubialpha.wixsite.com/koomstar)
+

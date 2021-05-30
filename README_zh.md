@@ -44,4 +44,6 @@ git clone https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal
 
 [Deepvocal toolbox 使用说明](https://share.weiyun.com/5snXMol)
 
+[Deepvocal标记工具（DVMT）仓库](https://github.com/FangCunWuChang/DeepVocal-Mark-Tool)
+
 [Hitsuboku Kumi官网](https://cubialpha.wixsite.com/koomstar)
