@@ -6851,7 +6851,7 @@
         }
     ],
     "paths": [
-        "E:/Music-----------------/S/myvoicebanks/Kumi/wav"
+        "./wav"
     ],
     "pitch": "A3",
     "symbols": [
