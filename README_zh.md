@@ -1,4 +1,4 @@
-# hitsuboku-kumi-chn-deepvocal
+# Hitsuboku Kumi Chn Deepvocal
 [English](README.md) | **中文**
 
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/blob/main/README_zh.md) | 
@@ -16,7 +16,9 @@ Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目�
 (花欺~沉睡在浮空的花海，曲：Cube^3，词：雨狸，工程：卦者那啥子靈風)
 
 ## 下载
-从[Release页面](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/releases/latest)下载音源
+[Github Release](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/releases/latest)
+
+[腾讯微云](https://gitee.com/oxygendioxide/hitsuboku-kumi-chn-deepvocal/releases)
 
 ## 技术规格
 - 4音阶 (A3, D4, A4, D5)
@@ -40,13 +42,11 @@ git clone https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal
 
 2. 下载并安装[deepvocal toolbox](https://dl.deep-vocal.com/toolbox/Setup_DeepVocalToolBox_beta_2.1.0.zip)
 
-3. 用deepvocal toolbox打开kumi.dvtb，点击“Function→Build voice bank”，将wav locations、model file location和voice bank location均设为下载位置。
-例如，如果你将项目下载到了C:\hitsuboku-kumi-chn-deepvocal,则你需要如图设置：
-![](Resource/2021-05-26-16-53-26.png)
+3. 用deepvocal toolbox打开kumi.dvtb，点击“Function→Build voice bank”
 
 4. 点击“Build Voice Model Files”，编译音源。
 
-5. 点击“Build Voice Bank”，打包音源。
+5. 点击“Build Voice Bank”，打包音源，将输出至bin文件夹。
 
 ## 相关链接
 [Deepvocal 官网](deep-vocal.com)
@@ -56,3 +56,5 @@ git clone https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal
 [Deepvocal标记工具（DVMT）仓库](https://github.com/FangCunWuChang/DeepVocal-Mark-Tool)
 
 [Hitsuboku Kumi官网](https://cubialpha.wixsite.com/koomstar)
+
+[Cubialpha的b站空间](https://space.bilibili.com/522152972)

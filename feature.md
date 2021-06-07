@@ -45,7 +45,7 @@ a ai an ang ao o ou ong e ei en eng e0 en0 i in ing u v vn i0 ir er
 
 ![](Resource/2021-05-27-22-07-30.png)
 
-### 气泡音 '
+### 气泡音 '（开发版特性）
 与喉塞音类似，气泡音采样来源于[Hitsuboku Kumi 日文Act4](https://cubialpha.wixsite.com/koomstar/act4)，因此不支持所有拼音，调用方式与喉塞音相同。
 - 句尾调用：在音符后面加一个"'"音符，支持a i e0 o韵尾
 
