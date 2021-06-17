@@ -13,6 +13,8 @@ According to Hitsuboku Kumi's [Terms of use](https://cubialpha.wixsite.com/kooms
 
 If you like this voicebank, please give her a star.
 
+If you find a bug, please [create an issue](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/issues/new) to report it.
+
 ## [Demo](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/issues/1)
 (花欺~沉睡在浮空的花海, Original Music:Cube^3, Lyric:雨狸, midi:卦者那啥子靈風)
 
@@ -27,7 +29,7 @@ If you like this voicebank, please give her a star.
 - provide dvtb1.1.6 and dvtb2.1.0 builds
 - tail symbol: R
 - vowel pause from [Hitsuboku Kumi Japanese Act4](https://cubialpha.wixsite.com/koomstar/act4): "!a" "a_!" etc
-- vocal fry from [Hitsuboku Kumi Japanese Act4](https://cubialpha.wixsite.com/koomstar/act4): "'a" "'a_!" etc
+- vocal fry from [Hitsuboku Kumi Japanese Act4](https://cubialpha.wixsite.com/koomstar/act4): "'a" "'a_'" etc
 - standalone consonants (only available in the dvtb1 build): p, f, t, k, q, x, c, s, ch, sh, r
 
 See [feature list](feature.md) for details
