@@ -1,4 +1,5 @@
 # Hitsuboku Kumi Chn Deepvocal
+
 [English](README.md) | **中文**
 
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/blob/main/README_zh.md) | 
@@ -21,6 +22,8 @@ Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目�
 [Github Release](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/releases/latest)
 
 [腾讯微云](https://gitee.com/oxygendioxide/hitsuboku-kumi-chn-deepvocal/releases)
+
+[阿里云盘](https://www.aliyundrive.com/s/BdJdj5Xs6xL) (**下载后请手动将文件后缀名从".docx"改为".7z"并解压缩**)
 
 ## 技术规格
 - 4音阶 (A3, D4, A4, D5)

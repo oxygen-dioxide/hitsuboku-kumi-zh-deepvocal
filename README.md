@@ -23,6 +23,8 @@ If you find a bug, please [create an issue](https://github.com/oxygen-dioxide/hi
 
 [Tencent Weiyun](https://gitee.com/oxygendioxide/hitsuboku-kumi-chn-deepvocal/releases)
 
+[Aliyun Drive](https://www.aliyundrive.com/s/BdJdj5Xs6xL) (**After downloading, please manually change the filename extension from ".docx" to ".7z", and decompress it.**)
+
 ## Tech Specs
 - 4 pitches (A3, D4, A4, D5)
 - using Voicemith reclist
