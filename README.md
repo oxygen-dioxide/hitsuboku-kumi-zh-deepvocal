@@ -5,7 +5,8 @@
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal) | 
 [Gitee](https://gitee.com/oxygendioxide/hitsuboku-kumi-chn-deepvocal) | 
 [Gitlab](https://gitlab.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal) | 
-[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-chn-deepvocal)
+[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-chn-deepvocal) |
+[Coding](https://oxygen-dioxide.coding.net/public/1/hitsuboku-kumi-chn-deepvocal/git/files)
 
 Hitsuboku Kumi (筆墨クミ) is a UTAU virtual singer developed by Cubialpha. This project ports Hitsuboku Kumi Chinese CVVC voicebank to deepvocal. This is the first open-source deepvocal voicebank on Github.
 
