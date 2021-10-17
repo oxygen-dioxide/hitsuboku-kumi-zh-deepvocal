@@ -41,6 +41,8 @@ See [feature list](feature.md) for details
 - The volume is Normalized to -9db
 
 ## How to build this
+Follow this instruction **only** if you want to modify this voicebank. If you just want to use this, see the [Download](./README.md#Download) section.
+
 1. Download this project with the following command:
 ```
 git clone https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal
