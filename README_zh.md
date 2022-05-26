@@ -5,7 +5,9 @@
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/blob/main/README_zh.md) | 
 [Gitee](https://gitee.com/oxygendioxide/hitsuboku-kumi-chn-deepvocal/blob/main/README_zh.md) | 
 [Gitlab](https://gitlab.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/-/blob/main/README_zh.md) | 
-[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-chn-deepvocal/src/main/README_zh.md)
+[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-chn-deepvocal/src/main/README_zh.md) | 
+[Coding](https://oxygen-dioxide.coding.net/public/1/hitsuboku-kumi-chn-deepvocal/git/files) |  
+[Jihulab]([https://jihulab.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal](https://jihulab.com/oxygen-dioxide/hitsuboku-kumi-chn-deepvocal/-/blob/main/README_zh.md))
 
 Hitsuboku Kumi (筆墨クミ)是Cubialpha制作的UTAU虚拟歌手。本项目将Hitsuboku Kumi的中文CVVC音源移植到deepvocal引擎。这是Github上首个开源deepvocal音源。
 
